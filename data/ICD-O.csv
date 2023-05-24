@@ -1,887 +1,887 @@
-﻿code,value
-0,Benign
-1,Uncertain
-2,Carcinoma
-3,"Malignant,"
-6,"Malignant,"
-9,"Malignant,"
-5,Microinvasive
-M800,Neoplasms NOS
-M8000/0,"Neoplasm,"
-M8000/1,"Neoplasm,"
-M8000/3,"Neoplasm,"
-M8000/6,"Neoplasm,"
-M8001/0,Tumour
-M8001/1,Tumour
-M8001/3,Tumour
-M8002/3,Malignant
-M8003/3,Malignant
-M8004/3,Malignant
-M801,Epithelial neoplasms NOS
-M8010/0,Epithelial
-M8010/2,Carcinoma
-M8010/3,Carcinoma
-M8010/6,"Carcinoma,"
-M8011/0,"Epithelioma,"
-M8011/3,"Epithelioma,"
-M8012/3,Large
-M8020/3,"Carcinoma,"
-M8021/3,"Carcinoma,"
-M8022/3,Pleomorphic
-M8030/3,Giant
-M8031/3,Giant
-M8032/3,Spindle
-M8033/3,Pseudosarcomatous
-M8034/3,Polygonal
-M8040/1,Tumourlet
-M8041/3,Small
-M8042/3,Oat
-M8043/3,Small
-M8044/3,Small
-M8045/3,Small
-M805,Squamous cell neoplasms
-M8050/0,Papilloma
-M8050/2,Papillary
-M8050/3,Papillary
-M8051/0,Verrucous
-M8051/3,Verrucous
-M8052/0,Squamous
-M8052/3,Papillary
-M8053/0,Inverted
-M8060/0,Papillomatosis
-M8070/2,Squamous
-M8070/3,Squamous
-M8070/6,Squamous
-M8071/3,Squamous
-M8072/3,Squamous
-M8073/3,Squamous
-M8074/3,Squamous
-M8075/3,Adenoid
-M8076/2,Squamous
-M8076/3,Squamous
-M8077/2,Intraepithelial
-M8080/2,Queyrat's
-M8081/2,Bowen's
-M8082/3,Lymphoepithelial
-M809,Basal cell neoplasms
-M8090/1,Basal
-M8090/3,Basal
-M8091/3,Multicentric
-M8092/3,Basal
-M8093/3,Basal
-M8094/3,Basosquamous
-M8095/3,Metatypical
-M8096/0,Intraepidermal
-M8100/0,Trichoepithelioma
-M8101/0,Trichofolliculoma
-M8102/0,Tricholemmoma
-M8110/0,Pilomatrixoma
-M8110/3,Pilomatrix
-M812,Transitional cell papillomas and carcinomas
-M8120/0,Transitional
-M8120/1,Urothelial
-M8120/2,Transitional
-M8120/3,Transitional
-M8121/0,Schneiderian
-M8121/1,Transitional
-M8121/3,Schneiderian
-M8122/3,Transitional
-M8123/3,Basaloid
-M8124/3,Cloacogenic
-M8130/3,Papillary
-M814,Adenomas and adenocarcinomas
-M8140/0,Adenoma
-M8140/1,Bronchial
-M8140/2,Adenocarcinoma
-M8140/3,Adenocarcinoma
-M8140/6,"Adenocarcinoma,"
-M8141/3,Scirrhous
-M8142/3,Linitis
-M8143/3,Superficial
-M8144/3,"Adenocarcinoma,"
-M8145/3,"Carcinoma,"
-M8146/0,Monomorphic
-M8147/0,Basal
-M8147/3,Basal
-M8150/0,Islet
-M8150/3,Islet
-M8151/0,Insulinoma
-M8151/3,"Insulinoma,"
-M8152/0,Glucagonoma
-M8152/3,"Glucagonoma,"
-M8153/1,Gastrinoma
-M8153/3,"Gastrinoma,"
-M8154/3,Mixed
-M8155/3,Vipoma
-M8160/0,Bile
-M8160/3,Cholangiocarcinoma
-M8161/0,Bile
-M8161/3,Bile
-M8162/3,Klatskin's
-M8170/0,Liver
-M8170/3,Hepatocellular
-M8171/3,Hepatocellular
-M8180/0,"Hepatocholangioma,"
-M8180/3,Combined
-M8190/0,Trabecular
-M8190/3,Trabecular
-M8191/0,Embryonal
-M8200/0,Eccrine
-M8200/3,Adenoid
-M8201/3,Cribriform
-M8202/0,Microcystic
-M8210/0,Adenomatous
-M8210/2,Adenocarcinoma
-M8210/3,Adenocarcinoma
-M8211/0,Tubular
-M8211/3,Tubular
-M8220/0,Adenomatous
-M8220/3,Adenocarcinoma
-M8221/0,Multiple
-M8221/3,Adenocarcinoma
-M8230/3,Solid
-M8231/3,Carcinoma
-M8240/1,Carcinoid
-M8240/3,Carcinoid
-M8241/1,Carcinoid
-M8241/3,Carcinoid
-M8243/3,Goblet
-M8244/3,Composite
-M8245/3,Adenocarcinoid
-M8246/3,Neuroendocrine
-M8247/3,Merkel
-M8248/1,Apudoma
-M8250/1,Pulmonary
-M8250/3,Bronchiolo-alveolar
-M8251/0,Alveolar
-M8251/3,Alveolar
-M8260/0,Papillary
-M8260/3,Papillary
-M8261/1,Villous
-M8261/2,Adenocarcinoma
-M8261/3,Adenocarcinoma
-M8262/3,Villous
-M8263/0,Tubulovillous
-M8263/2,Adenocarcinoma
-M8263/3,Adenocarcinoma
-M8270/0,Chromophobe
-M8270/3,Chromophobe
-M8271/0,Prolactinoma
-M8280/0,Acidophil
-M8280/3,Acidophil
-M8281/0,Mixed
-M8281/3,Mixed
-M8290/0,Oxyphilic
-M8290/3,Oxyphilic
-M8300/0,Basophil
-M8300/3,Basophil
-M8310/0,Clear
-M8310/3,Clear
-M8311/1,Hypernephroid
-M8312/3,Renal
-M8313/0,Clear
-M8314/3,Lipid-rich
-M8315/3,Glycogen-rich
-M8320/3,Granular
-M8321/0,Chief
-M8322/0,Water-clear
-M8322/3,Water-clear
-M8323/0,Mixed
-M8323/3,Mixed
-M8324/0,Lipoadenoma
-M8330/0,Follicular
-M8330/3,Follicular
-M8331/3,Follicular
-M8332/3,Follicular
-M8333/0,Microfollicular
-M8334/0,Macrofollicular
-M8340/3,Papillary
-M8350/3,Nonencapsulated
-M8360/1,Multiple
-M8361/1,Juxtaglomerular
-M8370/0,Adrenal
-M8370/3,Adrenal
-M8371/0,Adrenal
-M8372/0,Adrenal
-M8373/0,Adrenal
-M8374/0,Adrenal
-M8375/0,Adrenal
-M8380/0,Endometrioid
-M8380/1,Endometrioid
-M8380/3,Endometrioid
-M8381/0,Endometrioid
-M8381/1,Endometrioid
-M8381/3,Endometrioid
-M839,Adnexal and skin appendage neoplasms
-M8390/0,Skin
-M8390/3,Skin
-M8400/0,Sweat
-M8400/1,Sweat
-M8400/3,Sweat
-M8401/0,Apocrine
-M8401/3,Apocrine
-M8402/0,Eccrine
-M8403/0,Eccrine
-M8404/0,Hidrocystoma
-M8405/0,Papillary
-M8406/0,Papillary
-M8407/0,Syringoma
-M8408/0,Eccrine
-M8410/0,Sebaceous
-M8410/3,Sebaceous
-M8420/0,Ceruminous
-M8420/3,Ceruminous
-M843,Mucoepidermoid neoplasms
-M8430/1,Mucoepidermoid
-M8430/3,Mucoepidermoid
-M844,"Cystic, mucinous and serous neoplasms"
-M8440/0,Cystadenoma
-M8440/3,Cystadenocarcinoma
-M8441/0,Serous
-M8441/3,Serous
-M8442/3,Serous
-M8450/0,Papillary
-M8450/3,Papillary
-M8451/3,Papillary
-M8452/1,Papillary
-M8460/0,Papillary
-M8460/3,Papillary
-M8461/0,Serous
-M8461/3,Serous
-M8462/3,Papillary
-M8470/0,Mucinous
-M8470/3,Mucinous
-M8471/0,Papillary
-M8471/3,Papillary
-M8472/3,Mucinous
-M8473/3,Papillary
-M8480/0,Mucinous
-M8480/3,Mucinous
-M8480/6,Pseudomyxoma
-M8481/3,Mucin-producing
-M8490/3,Signet
-M8490/6,Metastatic
-M850,"Ductal, lobular and medullary neoplasms"
-M8500/2,Intraductal
-M8500/3,Infiltrating
-M8501/2,"Comedocarcinoma,"
-M8501/3,Comedocarcinoma
-M8502/3,Juvenile
-M8503/0,Intraductal
-M8503/2,Noninfiltrating
-M8503/3,Intraductal
-M8504/0,Intracystic
-M8504/2,Noninfiltrating
-M8504/3,Intracystic
-M8505/0,Intraductal
-M8506/0,Adenoma
-M8510/3,Medullary
-M8511/3,Medullary
-M8512/3,Medullary
-M8520/2,Lobular
-M8520/3,Lobular
-M8521/3,Infiltrating
-M8522/2,Intraductal
-M8522/3,Infiltrating
-M8530/3,Inflammatory
-M8540/3,Paget's
-M8541/3,Paget's
-M8542/3,Paget's
-M8543/3,Paget's
-M855,Acinar cell neoplasms
-M8550/0,Acinar
-M8550/1,Acinar
-M8550/3,Acinar
-M856,Complex epithelial neoplasms
-M8560/3,Adenosquamous
-M8561/0,Adenolymphoma
-M8562/3,Epithelial-myoepithelial
-M8570/3,Adenocarcinoma
-M8571/3,Adenocarcinoma
-M8572/3,Adenocarcinoma
-M8573/3,Adenocarcinoma
-M8580/0,"Thymoma,"
-M8580/3,"Thymoma,"
-M859,Specialised gonadal neoplasms
-M8590/1,Sex
-M8600/0,Thecoma
-M8600/3,"Thecoma,"
-M8601/0,"Thecoma,"
-M8602/0,Sclerosing
-M8610/0,Luteoma
-M8620/1,Granulosa
-M8620/3,Granulosa
-M8621/1,Granulosa
-M8622/1,Juvenile
-M8623/1,Sex
-M8630/0,"Androblastoma,"
-M8630/1,Androblastoma
-M8630/3,"Androblastoma,"
-M8631/0,Sertoli-Leydig
-M8632/1,Gynandroblastoma
-M8640/0,Sertoli
-M8640/3,Sertoli
-M8641/0,Sertoli
-M8650/0,Leydig
-M8650/1,Leydig
-M8650/3,Leydig
-M8660/0,Hilar
-M8670/0,Lipid
-M8671/0,Adrenal
-M868,Paragangliomas and glomus tumours
-M8680/1,Paraganglioma
-M8680/3,"Paraganglioma,"
-M8681/1,Sympathetic
-M8682/1,Parasympathetic
-M8683/0,Gangliocytic
-M8690/1,Glomus
-M8691/1,Aortic
-M8692/1,Carotid
-M8693/1,Extra-adrenal
-M8693/3,Extra-adrenal
-M8700/0,Phaeochromocytoma
-M8700/3,"Phaeochromocytoma,"
-M8710/3,Glomangiosarcoma
-M8711/0,Glomus
-M8712/0,Glomangioma
-M8713/0,Glomangiomyoma
-M872,Naevi and melanomas
-M8720/0,Pigmented
-M8720/2,Melanoma
-M8720/3,Malignant
-M8721/3,Nodular
-M8722/0,Balloon
-M8722/3,Balloon
-M8723/0,Halo
-M8723/3,Malignant
-M8724/0,Fibrous
-M8725/0,Neuronaevus
-M8726/0,Magnocellular
-M8727/0,Dysplastic
-M8730/0,Nonpigmented
-M8730/3,Amelanotic
-M8740/0,Junctional
-M8740/3,Malignant
-M8741/2,Precancerous
-M8741/3,Malignant
-M8742/2,Hutchinson's
-M8742/3,Malignant
-M8743/3,Superficial
-M8744/3,Acral
-M8745/3,Desmoplastic
-M8750/0,Intradermal
-M8760/0,Compound
-M8761/1,Giant
-M8761/3,Malignant
-M8770/0,Epithelioid
-M8770/3,Mixed
-M8771/3,Epithelioid
-M8772/0,Spindle
-M8772/3,Spindle
-M8773/3,Spindle
-M8774/3,Spindle
-M8780/0,Blue
-M8780/3,Blue
-M8790/0,Cellular
-M880,Soft tissue tumours and sarcomas NOS
-M8800/0,Soft
-M8800/3,Sarcoma
-M8800/6,Sarcomatosis
-M8801/3,Spindle
-M8802/3,Giant
-M8803/3,Small
-M8804/3,Epithelioid
-M881,Fibromatous neoplasms
-M8810/0,Fibroma
-M8810/3,Fibrosarcoma
-M8811/0,Fibromyxoma
-M8811/3,Fibromyxosarcoma
-M8812/0,Periosteal
-M8812/3,Periosteal
-M8813/0,Fascial
-M8813/3,Fascial
-M8814/3,Infantile
-M8820/0,Elastofibroma
-M8821/1,Aggressive
-M8822/1,Abdominal
-M8823/1,Desmoplastic
-M8824/1,Myofibromatosis
-M8830/0,Fibrous
-M8830/1,Atypical
-M8830/3,Fibrous
-M8832/0,Dermatofibroma
-M8832/3,Dermatofibrosarcoma
-M8833/3,Pigmented
-M884,Myxomatous neoplasms
-M8840/0,Myxoma
-M8840/3,Myxosarcoma
-M8841/1,Angiomyxoma
-M885,Lipomatous neoplasms
-M8850/0,Lipoma
-M8850/3,Liposarcoma
-M8851/0,Fibrolipoma
-M8851/3,"Liposarcoma,"
-M8852/0,Fibromyxolipoma
-M8852/3,Myxoid
-M8853/3,Round
-M8854/0,Pleomorphic
-M8854/3,Pleomorphic
-M8855/3,Mixed
-M8856/0,Intramuscular
-M8857/0,Spindle
-M8858/3,Dedifferentiated
-M8860/0,Angiomyolipoma
-M8861/0,Angiolipoma
-M8870/0,Myelolipoma
-M8880/0,Hibernoma
-M8881/0,Lipoblastomatosis
-M889,Myomatous neoplasms
-M8890/0,Leiomyoma
-M8890/1,Leiomyomatosis
-M8890/3,Leiomyosarcoma
-M8891/0,Epithelioid
-M8891/3,Epithelioid
-M8892/0,Cellular
-M8893/0,Bizarre
-M8894/0,Angiomyoma
-M8894/3,Angiomyosarcoma
-M8895/0,Myoma
-M8895/3,Myosarcoma
-M8896/3,Myxoid
-M8897/1,Smooth
-M8900/0,Rhabdomyoma
-M8900/3,Rhabdomyosarcoma
-M8901/3,Pleomorphic
-M8902/3,Mixed
-M8903/0,Foetal
-M8904/0,Adult
-M8910/3,Embryonal
-M8920/3,Alveolar
-M893,Complex mixed and stromal neoplasms
-M8930/0,Endometrial
-M8930/3,Endometrial
-M8931/1,Endolymphatic
-M8932/0,Adenomyoma
-M8933/3,Adenosarcoma
-M8940/0,Pleomorphic
-M8940/3,Mixed
-M8941/3,Carcinoma
-M8950/3,M�llerian
-M8951/3,Mesodermal
-M8960/1,Mesoblastic
-M8960/3,Nephroblastoma
-M8963/3,Rhabdoid
-M8964/3,Clear
-M8970/3,Hepatoblastoma
-M8971/3,Pancreatoblastoma
-M8972/3,Pulmonary
-M8980/3,Carcinosarcoma
-M8981/3,"Carcinosarcoma,"
-M8982/0,Myoepithelioma
-M8990/0,"Mesenchymoma,"
-M8990/1,Mesenchymoma
-M8990/3,"Mesenchymoma,"
-M8991/3,Embryonal
-M900,Fibroepithelial neoplasms
-M9000/0,Brenner
-M9000/1,Brenner
-M9000/3,Brenner
-M9010/0,Fibroadenoma
-M9011/0,Intracanalicular
-M9012/0,Pericanalicular
-M9013/0,Adenofibroma
-M9014/0,Serous
-M9015/0,Mucinous
-M9016/0,Giant
-M9020/0,Phyllodes
-M9020/1,Phyllodes
-M9020/3,Phyllodes
-M9030/0,Juvenile
-M904,Synovial-like neoplasms
-M9040/0,"Synovioma,"
-M9040/3,Synovial
-M9041/3,Synovial
-M9042/3,Synovial
-M9043/3,Synovial
-M9044/3,Clear
-M905,Mesothelial neoplasms
-M9050/0,"Mesothelioma,"
-M9050/3,"Mesothelioma,"
-M9051/0,Fibrous
-M9051/3,Fibrous
-M9052/0,Epithelioid
-M9052/3,Epithelioid
-M9053/0,"Mesothelioma,"
-M9053/3,"Mesothelioma,"
-M9054/0,Adenomatoid
-M9055/1,Cystic
-M906,Germ cell neoplasms
-M9060/3,Dysgerminoma
-M9061/3,Seminoma
-M9062/3,"Seminoma,"
-M9063/3,Spermatocytic
-M9064/3,Germinoma
-M9070/3,Embryonal
-M9071/3,Endodermal
-M9072/3,Polyembryoma
-M9073/1,Gonadoblastoma
-M9080/0,"Teratoma,"
-M9080/1,Teratoma
-M9080/3,"Teratoma,"
-M9081/3,Teratocarcinoma
-M9082/3,Malignant
-M9083/3,Malignant
-M9084/0,Dermoid
-M9084/3,Dermoid
-M9085/3,Mixed
-M9090/0,Struma
-M9090/3,Struma
-M9091/1,Strumal
-M910,Trophoblastic neoplasms
-M9100/0,Hydatidiform
-M9100/1,Invasive
-M9100/3,Choriocarcinoma
-M9101/3,Choriocarcinoma
-M9102/3,Malignant
-M9103/0,Partial
-M9104/1,Placental
-M911,Mesonephromas
-M9110/0,"Mesonephroma,"
-M9110/1,Mesonephric
-M9110/3,"Mesonephroma,"
-M912,Blood vessel tumours
-M9120/0,Haemangioma
-M9120/3,Haemangiosarcoma
-M9121/0,Cavernous
-M9122/0,Venous
-M9123/0,Racemose
-M9124/3,Kupffer
-M9125/0,Epithelioid
-M9126/0,Histiocytoid
-M9130/0,"Haemangioendothelioma,"
-M9130/1,Haemangioendothelioma
-M9130/3,"Haemangioendothelioma,"
-M9131/0,Capillary
-M9132/0,Intramuscular
-M9133/1,Epithelioid
-M9133/3,Epithelioid
-M9134/1,Intravascular
-M9140/3,Kaposi's
-M9141/0,Angiokeratoma
-M9142/0,Verrucous
-M9150/0,"Haemangiopericytoma,"
-M9150/1,Haemangiopericytoma
-M9150/3,"Haemangiopericytoma,"
-M9160/0,Angiofibroma
-M9161/1,Haemangioblastoma
-M917,Lymphatic vessel tumours
-M9170/0,Lymphangioma
-M9170/3,Lymphangiosarcoma
-M9171/0,Capillary
-M9172/0,Cavernous
-M9173/0,Cystic
-M9174/0,Lymphangiomyoma
-M9174/1,Lymphangiomyomatosis
-M9175/0,Haemolymphangioma
-M918,Osseous and chondromatous neoplasms
-M9180/0,Osteoma
-M9180/3,Osteosarcoma
-M9181/3,Chondroblastic
-M9182/3,Fibroblastic
-M9183/3,Telangiectatic
-M9184/3,Osteosarcoma
-M9185/3,Small
-M9190/3,Juxtacortical
-M9191/0,Osteoid
-M9200/0,Osteoblastoma
-M9200/1,Aggressive
-M9210/0,Osteochondroma
-M9210/1,Osteochondromatosis
-M9220/0,Chondroma
-M9220/1,Chondromatosis
-M9220/3,Chondrosarcoma
-M9221/0,Juxtacortical
-M9221/3,Juxtacortical
-M9230/0,Chondroblastoma
-M9230/3,"Chondroblastoma,"
-M9231/3,Myxoid
-M9240/3,Mesenchymal
-M9241/0,Chondromyxoid
-M925,Giant cell tumours
-M9250/1,Giant
-M9250/3,Giant
-M9251/1,Giant
-M9251/3,Malignant
-M926,Miscellaneous bone tumours
-M9260/3,Ewing's
-M9261/3,Adamantinoma
-M9262/0,Ossifying
-M927,Odontogenic tumours
-M9270/0,Odontogenic
-M9270/1,Odontogenic
-M9270/3,Odontogenic
-M9271/0,Dentinoma
-M9272/0,Cementoma
-M9273/0,"Cementoblastoma,"
-M9274/0,Cementifying
-M9275/0,Gigantiform
-M9280/0,Odontoma
-M9281/0,Compound
-M9282/0,Complex
-M9290/0,Ameloblastic
-M9290/3,Ameloblastic
-M9300/0,Adenomatoid
-M9301/0,Calcifying
-M9302/0,Odontogenic
-M9310/0,Ameloblastoma
-M9310/3,"Ameloblastoma,"
-M9311/0,Odontoameloblastoma
-M9312/0,Squamous
-M9320/0,Odontogenic
-M9321/0,Central
-M9322/0,Peripheral
-M9330/0,Ameloblastic
-M9330/3,Ameloblastic
-M9340/0,Calcifying
-M935,Miscellaneous tumours
-M9350/1,Craniopharyngioma
-M9360/1,Pinealoma
-M9361/1,Pineocytoma
-M9362/3,Pineoblastoma
-M9363/0,Melanotic
-M9364/3,Peripheral
-M9370/3,Chordoma
-M938,Gliomas
-M9380/3,"Glioma,"
-M9381/3,Gliomatosis
-M9382/3,Mixed
-M9383/1,Subependymal
-M9384/1,Subependymal
-M9390/0,Choroid
-M9390/3,Choroid
-M9391/3,Ependymoma
-M9392/3,"Ependymoma,"
-M9393/1,Papillary
-M9394/1,Myxopapillary
-M9400/3,Astrocytoma
-M9401/3,"Astrocytoma,"
-M9410/3,Protoplasmic
-M9411/3,Gemistocytic
-M9420/3,Fibrillary
-M9421/3,Pilocytic
-M9422/3,Spongioblastoma
-M9423/3,Spongioblastoma
-M9424/3,Pleomorphic
-M9430/3,Astroblastoma
-M9440/3,Glioblastoma
-M9441/3,Giant
-M9442/3,Gliosarcoma
-M9443/3,Primitive
-M9450/3,Oligodendroglioma
-M9451/3,"Oligodendroglioma,"
-M9460/3,Oligodendroblastoma
-M9470/3,Medulloblastoma
-M9471/3,Desmoplastic
-M9472/3,Medullomyoblastoma
-M9473/3,Primitive
-M9480/3,Cerebellar
-M9481/3,Monstrocellular
-M949,Neuroepitheliomatous neoplasms
-M9490/0,Ganglioneuroma
-M9490/3,Ganglioneuroblastoma
-M9491/0,Ganglioneuromatosis
-M9500/3,Neuroblastoma
-M9501/3,Medulloepithelioma
-M9502/3,Teratoid
-M9503/3,Neuroepithelioma
-M9504/3,Spongioneuroblastoma
-M9505/1,Ganglioglioma
-M9506/0,Neurocytoma
-M9507/0,Pacinian
-M9510/3,Retinoblastoma
-M9511/3,"Retinoblastoma,"
-M9512/3,"Retinoblastoma,"
-M9520/3,Olfactory
-M9521/3,Esthesioneurocytoma
-M9522/3,Esthesioneuroblastoma
-M9523/3,Esthesioneuroepithelioma
-M953,Meningiomas
-M9530/0,Meningioma
-M9530/1,Meningiomatosis
-M9530/3,"Meningioma,"
-M9531/0,Meningotheliomatous
-M9532/0,Fibrous
-M9533/0,Psammomatous
-M9534/0,Angiomatous
-M9535/0,Haemangioblastic
-M9536/0,Haemangiopericytic
-M9537/0,Transitional
-M9538/1,Papillary
-M9539/3,Meningeal
-M954,Nerve sheath tumour
-M9540/0,Neurofibroma
-M9540/1,Neurofibromatosis
-M9540/3,Neurofibrosarcoma
-M9541/0,Melanotic
-M9550/0,Plexiform
-M9560/0,Neurilemmoma
-M9560/1,Neurinomatosis
-M9560/3,"Neurilemmoma,"
-M9561/3,Triton
-M9562/0,Neurothekeoma
-M9570/0,Neuroma
-M958,Granular cell tumours and alveolar soft part sarcoma
-M9580/0,Granular
-M9580/3,Granular
-M9581/3,Alveolar
-M959,Malignant lymphomas NOS or diffuse
-M9590/3,Malignant
-M9591/3,Malignant
-M9592/3,Lymphosarcoma
-M9593/3,Reticulosarcoma
-M9594/3,Microglioma
-M9595/3,Malignant
-M965,Hodgkin's disease
-M9650/3,Hodgkin's
-M9652/3,Hodgkin's
-M9653/3,Hodgkin's
-M9654/3,Hodgkin's
-M9655/3,Hodgkin's
-M9657/3,Hodgkin's
-M9658/3,Hodgkin's
-M9659/3,Hodgkin's
-M9660/3,Hodgkin's
-M9661/3,Hodgkin's
-M9662/3,Hodgkin's
-M9663/3,Hodgkin's
-M9664/3,Hodgkin's
-M9665/3,Hodgkin's
-M9666/3,Hodgkin's
-M9667/3,Hodgkin's
-M967,"Malignant lymphoma, diffuse or NOS, specified type"
-M9670/3,Malignant
-M9671/3,Malignant
-M9672/3,Malignant
-M9673/3,Malignant
-M9674/3,Malignant
-M9675/3,Malignant
-M9676/3,Malignant
-M9677/3,Malignant
-M9680/3,Malignant
-M9681/3,Malignant
-M9682/3,Malignant
-M9683/3,Malignant
-M9684/3,Malignant
-M9685/3,Malignant
-M9686/3,Malignant
-M9687/3,Burkitt's
-M969,"Malignant lymphoma, follicular or nodular, with or"
-without,diffuse
-M9690/3,Malignant
-M9691/3,Malignant
-M9692/3,Malignant
-M9693/3,Malignant
-M9694/3,Malignant
-M9695/3,Malignant
-M9696/3,Malignant
-M9697/3,Malignant
-M9698/3,Malignant
-M970,Specified cutaneous and peripheral T-cell lymphomas
-M9700/3,Mycosis
-M9701/3,S�zary's
-M9702/3,Peripheral
-M9703/3,T-zone
-M9704/3,Lymphoepithelioid
-M9705/3,Peripheral
-M9706/3,Peripheral
-M9707/3,Peripheral
-M9709/3,Cutaneous
-M971,Other specified non-Hodgkin's lymphomas
-M9711/3,Monocytoid
-M9712/3,Angioendotheliomatosis
-M9713/3,Angiocentric
-M9714/3,Large
-M972,Other lymphoreticular neoplasms
-M9720/3,Malignant
-M9722/3,Letterer-Siwe
-M9723/3,True
-M973,Plasma cell tumours
-M9731/3,Plasmacytoma
-M9732/3,Multiple
-M974,Mast cell tumours
-M9740/1,Mastocytoma
-M9740/3,Mast
-M9741/3,Malignant
-M976,Immunoproliferative diseases
-M9760/3,Immunoproliferative
-M9761/3,Waldenstr�m's
-M9762/3,Alpha
-M9763/3,Gamma
-M9764/3,Immunoproliferative
-M9765/1,Monoclonal
-M9766/1,Angiocentric
-M9767/1,Angioimmunoblastic
-M9768/1,T-gamma
-M980,Leukaemias NOS
-M9800/3,Leukaemia
-M9801/3,Acute
-M9802/3,Subacute
-M9803/3,Chronic
-M9804/3,Aleukaemic
-M982,Lymphoid leukaemias
-M9820/3,Lymphoid
-M9821/3,Acute
-M9822/3,Subacute
-M9823/3,Chronic
-M9824/3,Aleukaemic
-M9825/3,Prolymphocytic
-M9826/3,Burkitt's
-M9827/3,Adult
-M983,Plasma cell leukaemia
-M9830/3,Plasma
-M984,Erythroleukaemias
-M9840/3,Erythroleukaemia
-M9841/3,Acute
-M9842/3,Chronic
-M985,Lymphosarcoma cell leukaemia
-M9850/3,Lymphosarcoma
-M986,Myeloid (granulocytic
-M9860/3,Myeloid
-M9861/3,Acute
-M9862/3,Subacute
-M9863/3,Chronic
-M9864/3,Aleukaemic
-M9866/3,Acute
-M9867/3,Acute
-M9868/3,Chronic
-M987,Basophilic leukaemia
-M9870/3,Basophilic
-M988,Eosinophilic leukaemia
-M9880/3,Eosinophilic
-M989,Monocytic leukaemias
-M9890/3,Monocytic
-M9891/3,Acute
-M9892/3,Subacute
-M9893/3,Chronic
-M9894/3,Aleukaemic
-M990,Other leukaemias
-M9900/3,Mast
-M9910/3,Acute
-M9930/3,Myeloid
-M9931/3,Acute
-M9932/3,Acute
-M9940/3,Hairy
-M9941/3,Leukaemic
-M995,Miscellaneous myeloproliferative and lymphoproliferative disorders
-M9950/1,Polycythaemia
-M9960/1,Chronic
-M9961/1,Myelosclerosis
-M9962/1,Idiopathic
-M9970/1,Lymphoproliferative
-M998,Myelodysplastic syndrome
-M9980/1,Refractory
-M9981/1,Refractory
-M9982/1,Refractory
-M9983/1,Refractory
-M9984/1,Refractory
-M9989/1,Myelodysplastic
+﻿code,value,value_cn
+0,Benign,温和的
+1,Uncertain whether benign or malignant (borderline malignancy),不确定是良性还是恶性（边缘恶性）
+2,"Carcinoma in situ (intrepithelial, noninfiltrating and noninvasive)",原位癌（上皮内、非浸润性和非侵袭性）
+3,"Malignant, primary site",恶性原发部位
+6,"Malignant, metastatic site (secondary site)",恶性转移部位（继发部位）
+9,"Malignant, uncertain whether primary or metastatic site",恶性，不确定是原发性还是转移性
+5,Microinvasive (code invented by UKACR),微创（代码由UKACR发明）
+M800,"Neoplasms, not otherwise specified",肿瘤，未另行说明
+M8000/0,"Neoplasm, benign",肿瘤，良性
+M8000/1,"Neoplasm, uncertain whether benign or malignant",肿瘤，不确定是良性还是恶性
+M8000/3,"Neoplasm, malignant",肿瘤，恶性
+M8000/6,"Neoplasm, metastatic",肿瘤，转移性
+M8001/0,"Tumour cells, benign",肿瘤细胞，良性
+M8001/1,"Tumour cells, uncertain whether benign or malignant",肿瘤细胞，不确定是良性还是恶性
+M8001/3,"Tumour cells, malignant",恶性肿瘤细胞
+M8002/3,"Malignant tumour, small cell type",恶性肿瘤，小细胞型
+M8003/3,"Malignant tumour, giant cell type",恶性肿瘤，巨细胞型
+M8004/3,"Malignant tumour, fusiform cell type",恶性肿瘤，梭形细胞型
+M801,"Epithelial neoplasms, not otherwise specified",上皮性肿瘤，未另行说明
+M8010/0,"Epithelial tumour, benign",上皮性肿瘤，良性
+M8010/2,"Carcinoma in situ, not otherwise specified",原位癌，未另行说明
+M8010/3,"Carcinoma, not otherwise specified",癌症，未另行说明
+M8010/6,"Carcinoma, metastatic, not otherwise specified",癌症，转移性，未另行说明
+M8011/0,"Epithelioma, benign",上皮细胞瘤，良性
+M8011/3,"Epithelioma, malignant",上皮细胞瘤，恶性
+M8012/3,"Large cell carcinoma, not otherwise specified",大细胞癌，未另行规定
+M8020/3,"Carcinoma, undifferentiated, not otherwise specified",未分化癌，未另行说明
+M8021/3,"Carcinoma, anaplastic type, not otherwise specified",癌，间变性型，未另行规定
+M8022/3,Pleomorphic carcinoma,多形性癌
+M8030/3,Giant cell and spindle cell carcinoma,巨细胞癌和梭形细胞癌
+M8031/3,Giant cell carcinoma,巨细胞癌
+M8032/3,Spindle cell carcinoma,梭形细胞癌
+M8033/3,Pseudosarcomatous carcinoma,假性肉瘤癌
+M8034/3,Polygonal cell carcinoma,多边形细胞癌
+M8040/1,Tumourlet,图穆莱特
+M8041/3,"Small cell carcinoma, not otherwise specified",小细胞癌，未另行规定
+M8042/3,Oat cell carcinoma,燕麦细胞癌
+M8043/3,"Small cell carcinoma, fusiform cell",小细胞癌，梭形细胞
+M8044/3,"Small cell carcinoma, intermediate cell",小细胞癌，中间细胞
+M8045/3,Small cell-large cell carcinoma,小细胞大细胞癌
+M805,Squamous cell neoplasms,鳞状细胞肿瘤
+M8050/0,"Papilloma, not otherwise specified (except Papilloma of urinary bladder M8120/1)",乳头状瘤，未另行说明（膀胱乳头状瘤M8120/1除外）
+M8050/2,Papillary carcinoma in situ,乳头状原位癌
+M8050/3,"Papillary carcinoma, not otherwise specified",乳头状癌，未另行说明
+M8051/0,Verrucous papilloma,疣状乳头状瘤
+M8051/3,"Verrucous carcinoma, not otherwise specified",疣状癌，未另行说明
+M8052/0,Squamous cell papilloma,鳞状细胞乳头状瘤
+M8052/3,Papillary squamous cell carcinoma,乳头状鳞状细胞癌
+M8053/0,Inverted papilloma,内翻性乳头状瘤
+M8060/0,"Papillomatosis, not otherwise specified",乳头状瘤病，未另行说明
+M8070/2,"Squamous cell carcinoma in situ, not otherwise specified",原位鳞状细胞癌，未另行说明
+M8070/3,"Squamous cell carcinoma, not otherwise specified",鳞状细胞癌，未另行规定
+M8070/6,"Squamous cell carcinoma, metastatic, not otherwise specified",鳞状细胞癌，转移性，未另行说明
+M8071/3,"Squamous cell carcinoma, keratinising, not otherwise specified",鳞状细胞癌，角化，未另行规定
+M8072/3,"Squamous cell carcinoma, large cell, non-keratinising",鳞状细胞癌，大细胞，非角化
+M8073/3,"Squamous cell carcinoma, small cell, non-keratinising",鳞状细胞癌，小细胞，非角化
+M8074/3,"Squamous cell carcinoma, spindle cell",鳞状细胞癌、梭形细胞
+M8075/3,Adenoid squamous cell carcinoma,腺样鳞状细胞癌
+M8076/2,Squamous cell carcinoma in situ with questionable stromal invasion,有可疑基质浸润的原位鳞状细胞癌
+M8076/3,"Squamous cell carcinoma, microinvasive",鳞状细胞癌，微侵袭性
+M8077/2,"Intraepithelial neoplasia, grade III, of cervix, vulva and vagina",宫颈、外阴和阴道上皮内瘤变，III级
+M8080/2,Queyrat's erythroplasia,奎拉氏红细胞增生症
+M8081/2,Bowen's disease,鲍恩病
+M8082/3,Lymphoepithelial carcinoma,上皮淋巴癌
+M809,Basal cell neoplasms,基底细胞肿瘤
+M8090/1,Basal cell tumour,基底细胞瘤
+M8090/3,"Basal cell carcinoma, not otherwise specified",基底细胞癌，未另行说明
+M8091/3,Multicentric basal cell carcinoma,多中心基底细胞癌
+M8092/3,"Basal cell carcinoma, morphoea",基底细胞癌，形态
+M8093/3,"Basal cell carcinoma, fibroepithelial",基底细胞癌，纤维上皮
+M8094/3,Basosquamous carcinoma,基底鳞状细胞癌
+M8095/3,Metatypical carcinoma,亚典型癌
+M8096/0,Intraepidermal epithelioma of Jadassohn,Jadassohn表皮内上皮瘤
+M8100/0,Trichoepithelioma,毛发上皮瘤
+M8101/0,Trichofolliculoma,毛毛囊瘤
+M8102/0,Tricholemmoma,毛滴虫
+M8110/0,Pilomatrixoma,毛瘤细胞瘤
+M8110/3,Pilomatrix carcinoma,毛瘤细胞癌
+M812,Transitional cell papillomas and carcinomas,移行细胞乳头状瘤和癌
+M8120/0,"Transitional cell papilloma, not otherwise specified",移行细胞乳头状瘤，未另行规定
+M8120/1,Urothelial papilloma,尿路上皮乳头状瘤
+M8120/2,Transitional cell carcinoma in situ,原位移行细胞癌
+M8120/3,"Transitional cell carcinoma, not otherwise specified",移行细胞癌，未另行说明
+M8121/0,Schneiderian papilloma,Schneiderian乳头状瘤
+M8121/1,"Transitional cell papilloma, inverted",移行细胞乳头状瘤，倒置
+M8121/3,Schneiderian carcinoma,Schneiderian癌
+M8122/3,"Transitional cell carcinoma, spindle cell",移行细胞癌、梭形细胞
+M8123/3,Basaloid carcinoma,基底细胞癌
+M8124/3,Cloacogenic carcinoma,克隆性癌
+M8130/3,Papillary transitional cell carcinoma,乳头移行细胞癌
+M814,Adenomas and adenocarcinomas,腺瘤和腺癌
+M8140/0,"Adenoma, not otherwise specified",腺瘤，未另行说明
+M8140/1,"Bronchial adenoma, not otherwise specified",支气管腺瘤，未另行说明
+M8140/2,Adenocarcinoma in situ,原位腺癌
+M8140/3,"Adenocarcinoma, not otherwise specified",腺癌，未另行说明
+M8140/6,"Adenocarcinoma, metastatic, not otherwise specified",腺癌，转移性，未另行说明
+M8141/3,Scirrhous adenocarcinoma,粘液腺癌
+M8142/3,Linitis plastica,塑性结膜炎
+M8143/3,Superficial spreading adenocarcinoma,浅表扩散性腺癌
+M8144/3,"Adenocarcinoma, intestinal type",腺癌，肠型
+M8145/3,"Carcinoma, diffuse type",癌症，弥漫型
+M8146/0,Monomorphic adenoma,多形性腺瘤
+M8147/0,Basal cell adenoma,基底细胞腺瘤
+M8147/3,Basal cell adenocarcinoma,基底细胞腺癌
+M8150/0,Islet cell adenoma,胰岛细胞腺瘤
+M8150/3,Islet cell carcinoma,胰岛细胞癌
+M8151/0,"Insulinoma, not otherwise specified",胰岛素瘤，未另行规定
+M8151/3,"Insulinoma, malignant",胰岛素瘤，恶性
+M8152/0,"Glucagonoma, not otherwise specified",胰高血糖素血症，未另行规定
+M8152/3,"Glucagonoma, malignant",胰高血糖素血症，恶性
+M8153/1,"Gastrinoma, not otherwise specified",胃泌素瘤，未另行说明
+M8153/3,"Gastrinoma, malignant",胃泌素瘤，恶性
+M8154/3,Mixed islet cell and exocrine adenocarcinoma,混合型胰岛细胞和外分泌腺癌
+M8155/3,Vipoma,毒蛇瘤
+M8160/0,Bile duct adenoma,胆管腺瘤
+M8160/3,Cholangiocarcinoma,胆管癌
+M8161/0,Bile duct cystadenoma,胆管囊腺瘤
+M8161/3,Bile duct cystadenocarcinoma,胆管囊腺癌
+M8162/3,Klatskin's tumour,克拉茨金肿瘤
+M8170/0,Liver cell adenoma,肝细胞腺瘤
+M8170/3,"Hepatocellular carcinoma, not otherwise specified",肝细胞癌，未另行规定
+M8171/3,"Hepatocellular carcinoma, fibrolamellar",肝细胞癌，纤维板层
+M8180/0,"Hepatocholangioma, benign",肝细胞血管瘤，良性
+M8180/3,Combined hepatocellular carcinoma and cholangiocarcinoma,合并肝细胞癌和胆管癌
+M8190/0,Trabecular adenoma,小梁腺瘤
+M8190/3,Trabecular adenocarcinoma,小梁腺癌
+M8191/0,Embryonal adenoma,胚胎腺瘤
+M8200/0,Eccrine dermal cylindroma,汗腺真皮柱状瘤
+M8200/3,Adenoid cystic carcinoma,腺样囊性癌
+M8201/3,Cribriform carcinoma,Cribriform癌
+M8202/0,Microcystic adenoma,微囊性腺瘤
+M8210/0,"Adenomatous polyp, not otherwise specified",腺瘤性息肉，未另行说明
+M8210/2,Adenocarcinoma in situ in adenomatous polyp,腺瘤性息肉中的原位腺癌
+M8210/3,Adenocarcinoma in adenomatous polyp,腺瘤性息肉中的腺癌
+M8211/0,"Tubular adenoma, not otherwise specified",管状腺瘤，未另行说明
+M8211/3,Tubular adenocarcinoma,管状腺癌
+M8220/0,Adenomatous polyposis coli,大肠腺瘤性息肉病
+M8220/3,Adenocarcinoma in adenomatous polyposis coli,腺瘤性大肠息肉病中的腺癌
+M8221/0,Multiple adenomatous polyps,多发性腺瘤性息肉
+M8221/3,Adenocarcinoma in multiple adenomatous polyps,多发性腺瘤性息肉中的腺癌
+M8230/3,"Solid carcinoma, not otherwise specified",实体癌，未另行说明
+M8231/3,Carcinoma simplex,单纯性癌
+M8240/1,"Carcinoid tumour, not otherwise specified, of appendix",阑尾类癌肿瘤，未另行说明
+M8240/3,"Carcinoid tumour, not otherwise specified (except of appendix M8240/1)",类癌肿瘤，未另行规定（附录M8240/1除外）
+M8241/1,"Carcinoid tumour, argentaffin, not otherwise specified",类癌肿瘤，嗜银性，未另行规定
+M8241/3,"Carcinoid tumour, argentaffin, malignant",类癌肿瘤、嗜银细胞、恶性
+M8243/3,Goblet cell carcinoid,杯状细胞类癌
+M8244/3,Composite carcinoid,复合类癌
+M8245/3,Adenocarcinoid tumour,腺类癌
+M8246/3,Neuroendocrine carcinoma,神经内分泌癌
+M8247/3,Merkel cell carcinoma,默克尔细胞癌
+M8248/1,Apudoma,阿普多玛
+M8250/1,Pulmonary adenomatosis,肺腺瘤
+M8250/3,Bronchiolo-alveolar adenocarcinoma,支气管肺泡腺癌
+M8251/0,Alveolar adenoma,肺泡腺瘤
+M8251/3,Alveolar adenocarcinoma,肺泡腺癌
+M8260/0,"Papillary adenoma, not otherwise specified",乳头状腺瘤，未另行说明
+M8260/3,"Papillary adenocarcinoma, not otherwise specified",乳头腺癌，未另行说明
+M8261/1,"Villous adenoma, not otherwise specified",绒毛腺瘤，未另行说明
+M8261/2,Adenocarcinoma in situ in villous adenoma,绒毛状腺瘤原位腺癌
+M8261/3,Adenocarcinoma in villous adenoma,绒毛状腺瘤中的腺癌
+M8262/3,Villous adenocarcinoma,绒毛腺癌
+M8263/0,Tubulovillous adenoma,管状绒毛腺瘤
+M8263/2,Adenocarcinoma in situ in tubulovillous adenoma,管状卵丘状腺瘤中的原位腺癌
+M8263/3,Adenocarcinoma in tubulovillous adenoma,管状腺腺瘤中的腺癌
+M8270/0,Chromophobe adenoma,嫌色腺瘤
+M8270/3,Chromophobe carcinoma,恐色癌
+M8271/0,Prolactinoma,催乳素瘤
+M8280/0,Acidophil adenoma,嗜酸性腺瘤
+M8280/3,Acidophil carcinoma,嗜酸细胞癌
+M8281/0,Mixed acidophil-basophil adenoma,嗜酸性-嗜碱性混合腺瘤
+M8281/3,Mixed acidophil-basophil carcinoma,嗜酸性-嗜碱性混合型癌
+M8290/0,Oxyphilic adenoma,嗜氧性腺瘤
+M8290/3,Oxyphilic adenocarcinoma,嗜氧腺癌
+M8300/0,Basophil adenoma,嗜碱性腺瘤
+M8300/3,Basophil carcinoma,嗜碱性粒细胞癌
+M8310/0,Clear cell adenoma,透明细胞腺瘤
+M8310/3,"Clear cell adenocarcinoma, not otherwise specified",透明细胞腺癌，未另行说明
+M8311/1,Hypernephroid tumour,高肾样肿瘤
+M8312/3,Renal cell carcinoma,肾细胞癌
+M8313/0,Clear cell adenofibroma,透明细胞腺纤维瘤
+M8314/3,Lipid-rich carcinoma,富含脂质的癌
+M8315/3,Glycogen-rich carcinoma,富含糖原的癌
+M8320/3,Granular cell carcinoma,颗粒细胞癌
+M8321/0,Chief cell adenoma,主要细胞腺瘤
+M8322/0,Water-clear cell adenoma,水清细胞腺瘤
+M8322/3,Water-clear cell adenocarcinoma,水清细胞腺癌
+M8323/0,Mixed cell adenoma,混合细胞腺瘤
+M8323/3,Mixed cell adenocarcinoma,混合细胞腺癌
+M8324/0,Lipoadenoma,脂肪瘤
+M8330/0,Follicular adenoma,毛囊腺瘤
+M8330/3,"Follicular adenocarcinoma, not otherwise specified",毛囊腺癌，未另行说明
+M8331/3,"Follicular adenocarcinoma, well differentiated",毛囊腺癌，高分化
+M8332/3,"Follicular adenocarcinoma, trabecular",毛囊腺癌，小梁
+M8333/0,Microfollicular adenoma,微滤泡腺瘤
+M8334/0,Macrofollicular adenoma,大卵泡腺瘤
+M8340/3,"Papillary carcinoma, follicular variant",乳头状癌，滤泡型
+M8350/3,Nonencapsulated sclerosing carcinoma,非包膜硬化性癌
+M8360/1,Multiple endocrine adenomas,多发性内分泌腺瘤
+M8361/1,Juxtaglomerular tumour,肾小球旁肿瘤
+M8370/0,"Adrenal cortical adenoma, not otherwise specified",肾上腺皮质腺瘤，未另行规定
+M8370/3,Adrenal cortical carcinoma,肾上腺皮质癌
+M8371/0,"Adrenal cortical adenoma, compact cell",肾上腺皮质腺瘤，致密细胞
+M8372/0,"Adrenal cortical adenoma, heavily pigmented variant",肾上腺皮质腺瘤，重度色素变性
+M8373/0,"Adrenal cortical adenoma, clear cell",肾上腺皮质腺瘤，透明细胞
+M8374/0,"Adrenal cortical adenoma, glomerulosa cell",肾上腺皮质腺瘤、肾小球细胞
+M8375/0,"Adrenal cortical adenoma, mixed cell",肾上腺皮质腺瘤，混合细胞
+M8380/0,"Endometrioid adenoma, not otherwise specified",子宫内膜样腺瘤，未另行说明
+M8380/1,"Endometrioid adenoma, borderline malignancy",子宫内膜样腺瘤，边缘恶性肿瘤
+M8380/3,Endometrioid carcinoma,子宫内膜样癌
+M8381/0,"Endometrioid adenofibroma, not otherwise specified",子宫内膜样腺纤维瘤，未另行说明
+M8381/1,"Endometrioid adenofibroma, borderline malignancy",子宫内膜样腺纤维瘤，边缘恶性肿瘤
+M8381/3,"Endometrioid adenofibroma, malignant",子宫内膜样腺纤维瘤，恶性
+M839,Adnexal and skin appendage neoplasms,附件和皮肤附属物肿瘤
+M8390/0,Skin appendage adenoma,皮肤附属物腺瘤
+M8390/3,Skin appendage carcinoma,皮肤附属物癌
+M8400/0,Sweat gland adenoma,汗腺腺瘤
+M8400/1,"Sweat gland tumour, not otherwise specified",汗腺肿瘤，未另行说明
+M8400/3,Sweat gland adenocarcinoma,汗腺腺癌
+M8401/0,Apocrine adenoma,顶泌腺瘤
+M8401/3,Apocrine adenocarcinoma,顶泌腺癌
+M8402/0,Eccrine acrospiroma,顶体细胞瘤
+M8403/0,Eccrine spiradenoma,螺旋管上皮瘤
+M8404/0,Hidrocystoma,汗囊瘤
+M8405/0,Papillary hydradenoma,乳头水肿
+M8406/0,Papillary syringadenoma,乳头状叙利亚腺瘤
+M8407/0,"Syringoma, not otherwise specified",注射器瘤，未另行规定
+M8408/0,Eccrine papillary adenoma,汗腺乳头状腺瘤
+M8410/0,Sebaceous adenoma,皮脂腺瘤
+M8410/3,Sebaceous adenocarcinoma,皮脂腺癌
+M8420/0,Ceruminous adenoma,豆状腺瘤
+M8420/3,Ceruminous adenocarcinoma,豆状腺癌
+M843,Mucoepidermoid neoplasms,粘液表皮样肿瘤
+M8430/1,Mucoepidermoid tumour,粘液表皮样肿瘤
+M8430/3,Mucoepidermoid carcinoma,粘液表皮样癌
+M844,"Cystic, mucinous and serous neoplasms",囊性、粘液性和浆液性肿瘤
+M8440/0,"Cystadenoma, not otherwise specified",囊腺瘤，未另行说明
+M8440/3,"Cystadenocarcinoma, not otherwise specified",囊腺癌，未另行说明
+M8441/0,"Serous cystadenoma, not otherwise specified",浆液性囊腺瘤，未另行说明
+M8441/3,"Serous cystadenocarcinoma, not otherwise specified",浆液性囊腺癌，未另行说明
+M8442/3,"Serous cystadenoma, borderline malignancy",浆液性囊腺瘤，边缘恶性
+M8450/0,"Papillary cystadenoma, not otherwise specified",乳头状囊腺瘤，未另行说明
+M8450/3,"Papillary cystadenocarcinoma, not otherwise specified",乳头状囊腺癌，未另行说明
+M8451/3,"Papillary cystadenoma, borderline malignancy",乳头状囊腺瘤，边缘恶性
+M8452/1,Papillary cystic tumour,乳头囊性肿瘤
+M8460/0,"Papillary serous cystadenoma, not otherwise specified",乳头状浆液性囊腺瘤，未另行说明
+M8460/3,Papillary serous cystadenocarcinoma,乳头状浆液性囊腺癌
+M8461/0,"Serous surface papilloma, not otherwise specified",浆液性表面乳头状瘤，未另行规定
+M8461/3,Serous surface papillary carcinoma,浆液性表面乳头状癌
+M8462/3,"Papillary serous cystadenoma, borderline malignancy",乳头状浆液性囊腺瘤，边缘恶性
+M8470/0,"Mucinous cystadenoma, not otherwise specified",粘液性囊腺瘤，未另行说明
+M8470/3,"Mucinous cystadenocarcinoma, not otherwise specified",粘液性囊腺癌，未另行说明
+M8471/0,"Papillary mucinous cystadenoma, not otherwise specified",乳头状黏液性囊腺瘤，未另行说明
+M8471/3,Papillary mucinous cystadenocarcinoma,乳头粘液性囊腺癌
+M8472/3,"Mucinous cystadenoma, borderline malignancy",粘液性囊腺瘤，边缘恶性
+M8473/3,"Papillary mucinous cystadenoma, borderline malignancy",乳头状黏液性囊腺瘤，边缘恶性
+M8480/0,Mucinous adenoma,粘液性腺瘤
+M8480/3,Mucinous adenocarcinoma,粘液腺癌
+M8480/6,Pseudomyxoma peritonei,腹膜假性粘液瘤
+M8481/3,Mucin-producing adenocarcinoma,粘液分泌腺癌
+M8490/3,Signet ring cell carcinoma,Signet环细胞癌
+M8490/6,Metastatic signet ring cell carcinoma,转移性印戒细胞癌
+M850,"Ductal, lobular and medullary neoplasms",导管、小叶和髓质肿瘤
+M8500/2,"Intraductal carcinoma, noninfiltrating, not otherwise specified",导管内癌，非浸润性，未另行说明
+M8500/3,Infiltrating duct carcinoma,浸润性导管癌
+M8501/2,"Comedocarcinoma, noninfiltrating",非滤过性喜剧性神经鞘瘤
+M8501/3,"Comedocarcinoma, not otherwise specified",喜剧性脑脊髓炎，未另行规定
+M8502/3,Juvenile carcinoma of the breast,青少年乳腺癌
+M8503/0,Intraductal papilloma,导管内乳头状瘤
+M8503/2,Noninfiltrating intraductal papillary adenocarcinoma,非浸润性导管内乳头状腺癌
+M8503/3,Intraductal papillary adenocarcinoma with invasion,导管内乳头状腺癌伴浸润
+M8504/0,Intracystic papillary adenoma,囊内乳头状腺瘤
+M8504/2,Noninfiltrating intracystic carcinoma,非浸润性囊内癌
+M8504/3,"Intracystic carcinoma, not otherwise specified",囊内癌，未另行规定
+M8505/0,"Intraductal papillomatosis, not otherwise specified",导管内乳头状瘤病，未另行说明
+M8506/0,Adenoma of nipple,乳头腺瘤
+M8510/3,"Medullary carcinoma, not otherwise specified",髓系癌，未另行说明
+M8511/3,Medullary carcinoma with amyloid stroma,伴有淀粉样基质的髓样癌
+M8512/3,Medullary carcinoma with lymphoid stroma,伴有淋巴间质的髓样癌
+M8520/2,Lobular carcinoma in situ,小叶原位癌
+M8520/3,"Lobular carcinoma, not otherwise specified",小叶癌，未另行说明
+M8521/3,Infiltrating ductular carcinoma,浸润性导管癌
+M8522/2,Intraductal carcinoma and lobular carcinoma in situ,导管内癌和小叶原位癌
+M8522/3,Infiltrating duct and lobular carcinoma,浸润性导管和小叶癌
+M8530/3,Inflammatory carcinoma,炎症性癌
+M8540/3,"Paget's disease, mammary",佩吉特病，乳腺
+M8541/3,Paget's disease and infiltrating duct carcinoma of breast,Paget病与乳腺浸润性导管癌
+M8542/3,"Paget's disease, extramammary (except Paget's disease of bone)",乳腺外佩吉特病（骨佩吉特病除外）
+M8543/3,Paget's disease and intraductal carcinoma of breast,Paget病与乳腺导管内癌
+M855,Acinar cell neoplasms,腺泡细胞肿瘤
+M8550/0,Acinar cell adenoma,腺泡细胞腺瘤
+M8550/1,Acinar cell tumour,腺泡细胞瘤
+M8550/3,Acinar cell carcinoma,腺泡细胞癌
+M856,Complex epithelial neoplasms,复杂上皮肿瘤
+M8560/3,Adenosquamous carcinoma,腺鳞状细胞癌
+M8561/0,Adenolymphoma,腺淋巴瘤
+M8562/3,Epithelial-myoepithelial carcinoma,上皮性肌上皮癌
+M8570/3,Adenocarcinoma with squamous metaplasia,腺癌伴鳞状化生
+M8571/3,Adenocarcinoma with cartilaginous and osseous metaplasia,腺癌伴软骨化生和骨化生
+M8572/3,Adenocarcinoma with spindle cell metaplasia,腺癌伴梭形细胞化生
+M8573/3,Adenocarcinoma with apocrine metaplasia,腺癌伴顶泌上皮化生
+M8580/0,"Thymoma, benign",良性胸腺瘤
+M8580/3,"Thymoma, malignant",胸腺瘤，恶性
+M859,Specialised gonadal neoplasms,专门的性腺肿瘤
+M8590/1,Sex cord-stromal tumour,性脊髓间质瘤
+M8600/0,"Thecoma, not otherwise specified",昏迷，未另行规定
+M8600/3,"Thecoma, malignant",昏迷，恶性
+M8601/0,"Thecoma, luteinised",昏迷，黄体化
+M8602/0,Sclerosing stromal tumour,硬化性间质瘤
+M8610/0,"Luteoma, not otherwise specified",Luteoma，未另行规定
+M8620/1,"Granulosa cell tumour, not otherwise specified",颗粒细胞瘤，未另行规定
+M8620/3,"Granulosa cell tumour, malignant",颗粒细胞瘤，恶性
+M8621/1,Granulosa cell-theca cell tumour,颗粒细胞膜细胞瘤
+M8622/1,Juvenile granulosa cell tumour,幼年颗粒细胞瘤
+M8623/1,Sex cord tumour with annular tubules,性脊髓肿瘤伴环状小管
+M8630/0,"Androblastoma, benign",雄性母细胞瘤，良性
+M8630/1,"Androblastoma, not otherwise specified",雄激素母细胞瘤，未另行规定
+M8630/3,"Androblastoma, malignant",雄性母细胞瘤，恶性
+M8631/0,Sertoli-Leydig cell tumour,Sertoli Leydig细胞瘤
+M8632/1,Gynandroblastoma,妇科母细胞瘤
+M8640/0,"Sertoli cell tumour, not otherwise specified",支持细胞肿瘤，未另行规定
+M8640/3,Sertoli cell carcinoma,支持细胞癌
+M8641/0,Sertoli cell tumour with lipid storage,具有脂质储存的支持细胞肿瘤
+M8650/0,"Leydig cell tumour, benign",间质细胞瘤，良性
+M8650/1,"Leydig cell tumour, not otherwise specified",间质细胞瘤，未另行规定
+M8650/3,"Leydig cell tumour, malignant",间质细胞瘤，恶性
+M8660/0,Hilar cell tumour,希拉里细胞瘤
+M8670/0,Lipid cell tumour of ovary,卵巢脂质细胞瘤
+M8671/0,Adrenal rest tumour,肾上腺静止肿瘤
+M868,Paragangliomas and glomus tumours,副神经节瘤和血管球瘤
+M8680/1,"Paraganglioma, not otherwise specified",副神经节瘤，未另行说明
+M8680/3,"Paraganglioma, malignant",副神经节瘤，恶性
+M8681/1,Sympathetic paraganglioma,交感神经副神经节瘤
+M8682/1,Parasympathetic paraganglioma,副交感神经副神经节瘤
+M8683/0,Gangliocytic paraganglioma,神经节细胞性副神经节瘤
+M8690/1,Glomus jugulare tumour,颈静脉球瘤
+M8691/1,Aortic body tumour,主动脉体肿瘤
+M8692/1,Carotid body tumour,颈动脉体瘤
+M8693/1,"Extra-adrenal paraganglioma, not otherwise specified",肾上腺外副神经节瘤，未另行说明
+M8693/3,"Extra-adrenal paraganglioma, malignant",肾上腺外副神经节瘤，恶性
+M8700/0,"Phaeochromocytoma, not otherwise specified",嗜色细胞瘤，未另行说明
+M8700/3,"Phaeochromocytoma, malignant",嗜铬细胞瘤，恶性
+M8710/3,Glomangiosarcoma,肾小球血管肉瘤
+M8711/0,Glomus tumour,肾小球肿瘤
+M8712/0,Glomangioma,肾小球瘤
+M8713/0,Glomangiomyoma,肾小球瘤细胞瘤
+M872,Naevi and melanomas,Naevi和黑色素瘤
+M8720/0,"Pigmented naevus, not otherwise specified",色素痣，未另行规定
+M8720/2,Melanoma in situ,原位黑色素瘤
+M8720/3,"Malignant melanoma, not otherwise specified",恶性黑色素瘤，未另行说明
+M8721/3,Nodular melanoma,结节性黑色素瘤
+M8722/0,Balloon cell naevus,气球细胞痣
+M8722/3,Balloon cell melanoma,气球细胞黑色素瘤
+M8723/0,Halo naevus,Halo痣
+M8723/3,"Malignant melanoma, regressing",恶性黑色素瘤，消退
+M8724/0,Fibrous papule of nose,鼻纤维丘疹
+M8725/0,Neuronaevus,神经元
+M8726/0,Magnocellular naevus,磁细胞痣
+M8727/0,Dysplastic naevus,发育不全痣
+M8730/0,Nonpigmented naevus,无色素痣
+M8730/3,Amelanotic melanoma,无晶状体黑色素瘤
+M8740/0,Junctional naevus,交界性痣
+M8740/3,Malignant melanoma in junctional naevus,交界痣恶性黑色素瘤
+M8741/2,"Precancerous melanosis, not otherwise specified",癌前黑变病，未另行说明
+M8741/3,Malignant melanoma in precancerous melanosis,癌前黑色素瘤中的恶性黑色素瘤
+M8742/2,"Hutchinson's melanotic freckle, not otherwise specified",哈钦森黑色素沉着雀斑，未另行说明
+M8742/3,Malignant melanoma in Hutchinson's melanotic freckle,哈钦森黑色素沉着雀斑中的恶性黑色素瘤
+M8743/3,Superficial spreading melanoma,浅表扩散性黑色素瘤
+M8744/3,"Acral lentiginous melanoma, malignant",肢端雀斑样黑色素瘤，恶性
+M8745/3,"Desmoplastic melanoma, malignant",Desmoplastic黑色素瘤，恶性
+M8750/0,Intradermal naevus,真皮内痣
+M8760/0,Compound naevus,复合痣
+M8761/1,"Giant pigmented naevus, not otherwise specified",巨大色素痣，未另行规定
+M8761/3,Malignant melanoma in giant pigmented naevus,巨大色素痣中的恶性黑色素瘤
+M8770/0,Epithelioid and spindle cell naevus,上皮样痣和梭形细胞痣
+M8770/3,Mixed epithelioid and spindle cell melanoma,混合上皮样和梭形细胞黑色素瘤
+M8771/3,Epithelioid cell melanoma,上皮样细胞黑色素瘤
+M8772/0,Spindle cell naevus,梭形细胞痣
+M8772/3,"Spindle cell melanoma, not otherwise specified",梭形细胞黑色素瘤，未另行规定
+M8773/3,"Spindle cell melanoma, type A",梭形细胞黑色素瘤，A型
+M8774/3,"Spindle cell melanoma, type B",梭形细胞黑色素瘤，B型
+M8780/0,"Blue naevus, not otherwise specified",蓝色痣，未另行规定
+M8780/3,"Blue naevus, malignant",蓝色痣，恶性
+M8790/0,Cellular blue naevus,细胞蓝色痣
+M880,"Soft tissue tumours and sarcomas, not otherwise specified",未另行说明的软组织肿瘤和肉瘤
+M8800/0,"Soft tissue tumour, benign",软组织肿瘤，良性
+M8800/3,"Sarcoma, not otherwise specified",肉瘤，未另行规定
+M8800/6,"Sarcomatosis, not otherwise specified",肉瘤，未另行说明
+M8801/3,Spindle cell sarcoma,梭形细胞肉瘤
+M8802/3,Giant cell sarcoma (except of bone M9250/3),巨细胞肉瘤（骨骼M9250/3除外）
+M8803/3,Small cell sarcoma,小细胞肉瘤
+M8804/3,Epithelioid sarcoma,上皮样肉瘤
+M881,Fibromatous neoplasms,纤维性肿瘤
+M8810/0,"Fibroma, not otherwise specified",纤维瘤，未另行规定
+M8810/3,"Fibrosarcoma, not otherwise specified",纤维肉瘤，未另行说明
+M8811/0,Fibromyxoma,纤维黏液瘤
+M8811/3,Fibromyxosarcoma,纤维黏液肉瘤
+M8812/0,Periosteal fibroma,骨膜纤维瘤
+M8812/3,Periosteal fibrosarcoma,骨膜纤维肉瘤
+M8813/0,Fascial fibroma,筋膜纤维瘤
+M8813/3,Fascial fibrosarcoma,筋膜纤维肉瘤
+M8814/3,Infantile fibrosarcoma,婴儿纤维肉瘤
+M8820/0,Elastofibroma,弹力纤维瘤
+M8821/1,Aggressive fibromatosis,侵袭性纤维瘤病
+M8822/1,Abdominal fibromatosis,腹部纤维瘤病
+M8823/1,Desmoplastic fibroma,Desmoplastic纤维瘤
+M8824/1,Myofibromatosis,肌纤维瘤病
+M8830/0,"Fibrous histiocytoma, not otherwise specified",纤维组织细胞瘤，未另行说明
+M8830/1,Atypical fibrous histiocytoma,非典型纤维组织细胞瘤
+M8830/3,"Fibrous histiocytoma, malignant",纤维组织细胞瘤，恶性
+M8832/0,"Dermatofibroma, not otherwise specified",皮肤溴，未另行规定
+M8832/3,"Dermatofibrosarcoma, not otherwise specified",皮肤纤维肉瘤，未另行规定
+M8833/3,Pigmented dermatofibrosarcoma protuberans,色素性皮肤纤维肉瘤突起
+M884,Myxomatous neoplasms,粘液瘤性肿瘤
+M8840/0,"Myxoma, not otherwise specified",粘液瘤，未另行说明
+M8840/3,Myxosarcoma,粘液瘤
+M8841/1,Angiomyxoma,血管粘液瘤
+M885,Lipomatous neoplasms,脂肪瘤肿瘤
+M8850/0,"Lipoma, not otherwise specified",脂肪瘤，未另行说明
+M8850/3,"Liposarcoma, not otherwise specified",脂肉瘤，未另行说明
+M8851/0,Fibrolipoma,纤维脂肪瘤
+M8851/3,"Liposarcoma, well differentiated",脂肉瘤，高分化
+M8852/0,Fibromyxolipoma,纤维黏液脂肪瘤
+M8852/3,Myxoid liposarcoma,粘液样脂肪肉瘤
+M8853/3,Round cell liposarcoma,圆细胞脂肪肉瘤
+M8854/0,Pleomorphic lipoma,多形性脂肪瘤
+M8854/3,Pleomorphic liposarcoma,多形性脂肪肉瘤
+M8855/3,Mixed type liposarcoma,混合型脂肪肉瘤
+M8856/0,Intramuscular lipoma,肌内脂肪瘤
+M8857/0,Spindle cell lipoma,梭形细胞脂肪瘤
+M8858/3,Dedifferentiated liposarcoma,去分化脂肪肉瘤
+M8860/0,Angiomyolipoma,血管平滑肌脂肪瘤
+M8861/0,"Angiolipoma, not otherwise specified",血管脂肪瘤，未另行说明
+M8870/0,Myelolipoma,骨髓脂肪瘤
+M8880/0,Hibernoma,Hibernoma型
+M8881/0,Lipoblastomatosis,成脂细胞增多症
+M889,Myomatous neoplasms,肌瘤性肿瘤
+M8890/0,"Leiomyoma, not otherwise specified",平滑肌瘤，未另行说明
+M8890/1,"Leiomyomatosis, not otherwise specified",平滑肌瘤病，未另行说明
+M8890/3,"Leiomyosarcoma, not otherwise specified",平滑肌肉瘤，未另行说明
+M8891/0,Epithelioid leiomyoma,上皮样平滑肌瘤
+M8891/3,Epithelioid leiomyosarcoma,上皮样平滑肌肉瘤
+M8892/0,Cellular leiomyoma,细胞平滑肌瘤
+M8893/0,Bizarre leiomyoma,奇怪的平滑肌瘤
+M8894/0,Angiomyoma,血管肌瘤
+M8894/3,Angiomyosarcoma,血管肌肉瘤
+M8895/0,Myoma,子宫肌瘤
+M8895/3,Myosarcoma,肌肉瘤
+M8896/3,Myxoid leiomyosarcoma,粘液样平滑肌肉瘤
+M8897/1,"Smooth muscle tumour, not otherwise specified",平滑肌肿瘤，未另行规定
+M8900/0,"Rhabdomyoma, not otherwise specified",横纹肌瘤，未另行说明
+M8900/3,"Rhabdomyosarcoma, not otherwise specified",横纹肌肉瘤，未另行说明
+M8901/3,Pleomorphic rhabdomyosarcoma,多形性横纹肌肉瘤
+M8902/3,Mixed type rhabdomyosarcoma,混合型横纹肌肉瘤
+M8903/0,Foetal rhabdomyoma,胎儿横纹肌瘤
+M8904/0,Adult rhabdomyoma,成人横纹肌瘤
+M8910/3,Embryonal rhabdomyosarcoma,胚胎性横纹肌肉瘤
+M8920/3,Alveolar rhabdomyosarcoma,肺泡横纹肌肉瘤
+M893,Complex mixed and stromal neoplasms,复杂混合性和间质性肿瘤
+M8930/0,Endometrial stromal nodule,子宫内膜基质结节
+M8930/3,Endometrial stromal sarcoma,子宫内膜间质肉瘤
+M8931/1,Endolymphatic stromal myosis,内淋巴基质肌炎
+M8932/0,Adenomyoma,腺肌瘤
+M8933/3,Adenosarcoma,腺肉瘤
+M8940/0,Pleomorphic adenoma,多形性腺瘤
+M8940/3,"Mixed tumour, malignant, not otherwise specified",混合性肿瘤，恶性，未另行说明
+M8941/3,Carcinoma in pleomorphic adenoma,多形性腺瘤癌
+M8950/3,M�llerian mixed tumour,M�勒氏混合瘤
+M8951/3,Mesodermal mixed tumour,中胚层混合瘤
+M8960/1,Mesoblastic nephroma,中变细胞性肾瘤
+M8960/3,"Nephroblastoma, not otherwise specified",肾母细胞瘤，未另行说明
+M8963/3,Rhabdoid sarcoma,横纹肌肉瘤
+M8964/3,Clear cell sarcoma of kidney,肾透明细胞肉瘤
+M8970/3,Hepatoblastoma,肝母细胞瘤
+M8971/3,Pancreatoblastoma,胰腺母细胞瘤
+M8972/3,Pulmonary blastoma,肺母细胞瘤
+M8980/3,"Carcinosarcoma, not otherwise specified",肉瘤，未另行说明
+M8981/3,"Carcinosarcoma, embryonal",胚胎性癌肉瘤
+M8982/0,Myoepithelioma,肌上皮瘤
+M8990/0,"Mesenchymoma, benign",间充质瘤，良性
+M8990/1,"Mesenchymoma, not otherwise specified",间充质瘤，未另行规定
+M8990/3,"Mesenchymoma, malignant",间充质瘤，恶性
+M8991/3,Embryonal sarcoma,胚胎肉瘤
+M900,Fibroepithelial neoplasms,纤维上皮肿瘤
+M9000/0,"Brenner tumour, not otherwise specified",布伦纳肿瘤，未另行说明
+M9000/1,"Brenner tumour, borderline malignancy",布伦纳肿瘤，边缘恶性肿瘤
+M9000/3,"Brenner tumour, malignant",布伦纳肿瘤，恶性
+M9010/0,"Fibroadenoma, not otherwise specified",纤维腺瘤，未另行说明
+M9011/0,"Intracanalicular fibroadenoma, not otherwise specified",管内纤维腺瘤，未另行说明
+M9012/0,Pericanalicular fibroadenoma,小管周纤维腺瘤
+M9013/0,"Adenofibroma, not otherwise specified",腺纤维瘤，未另行说明
+M9014/0,Serous adenofibroma,浆液性腺纤维瘤
+M9015/0,Mucinous adenofibroma,粘液腺纤维瘤
+M9016/0,Giant fibroadenoma,巨大纤维腺瘤
+M9020/0,"Phyllodes tumour, benign",叶状肿瘤，良性
+M9020/1,"Phyllodes tumour, not otherwise specified",叶状肿瘤，未另行规定
+M9020/3,"Phyllodes tumour, malignant",叶状肿瘤，恶性
+M9030/0,Juvenile fibroadenoma,幼年纤维腺瘤
+M904,Synovial-like neoplasms,滑膜样肿瘤
+M9040/0,"Synovioma, benign",滑膜瘤，良性
+M9040/3,"Synovial sarcoma, not otherwise specified",滑膜肉瘤，未另行说明
+M9041/3,"Synovial sarcoma, spindle cell",滑膜肉瘤，梭形细胞
+M9042/3,"Synovial sarcoma, epithelioid cell",滑膜肉瘤，上皮样细胞
+M9043/3,"Synovial sarcoma, biphasic",滑膜肉瘤，双相
+M9044/3,Clear cell sarcoma (except of kidney M8964/3),透明细胞肉瘤（肾脏M8964/3除外）
+M905,Mesothelial neoplasms,间皮瘤
+M9050/0,"Mesothelioma, benign",间皮瘤，良性
+M9050/3,"Mesothelioma, malignant",间皮瘤，恶性
+M9051/0,"Fibrous mesothelioma, benign",纤维间皮瘤，良性
+M9051/3,"Fibrous mesothelioma, malignant",纤维间皮瘤，恶性
+M9052/0,"Epithelioid mesothelioma, benign",上皮样间皮瘤，良性
+M9052/3,"Epithelioid mesothelioma, malignant",上皮样间皮瘤，恶性
+M9053/0,"Mesothelioma, biphasic, benign",间皮瘤，双相，良性
+M9053/3,"Mesothelioma, biphasic, malignant",间皮瘤，双相，恶性
+M9054/0,"Adenomatoid tumour, not otherwise specified",腺瘤样肿瘤，未另行说明
+M9055/1,Cystic mesothelioma,囊性间皮瘤
+M906,Germ cell neoplasms,生殖细胞肿瘤
+M9060/3,Dysgerminoma,无性细胞瘤
+M9061/3,"Seminoma, not otherwise specified",Seminoma，未另行规定
+M9062/3,"Seminoma, anaplastic",Seminoma，间变性
+M9063/3,Spermatocytic seminoma,精细胞精原细胞瘤
+M9064/3,Germinoma,生殖细胞瘤
+M9070/3,"Embryonal carcinoma, not otherwise specified",胚胎癌，未另行说明
+M9071/3,Endodermal sinus tumour,内胚层窦瘤
+M9072/3,Polyembryoma,多伞状瘤
+M9073/1,Gonadoblastoma,性腺母细胞瘤
+M9080/0,"Teratoma, benign",畸胎瘤，良性
+M9080/1,"Teratoma, not otherwise specified",畸胎瘤，未另行规定
+M9080/3,"Teratoma, malignant, not otherwise specified",畸胎瘤，恶性，未另行说明
+M9081/3,Teratocarcinoma,畸胎瘤
+M9082/3,"Malignant teratoma, undifferentiated",恶性畸胎瘤，未分化
+M9083/3,"Malignant teratoma, intermediate",恶性畸胎瘤，中等
+M9084/0,"Dermoid cyst, not otherwise specified",Dermoid囊肿，未另行说明
+M9084/3,Dermoid cyst with malignant transformation,真皮囊肿伴恶变
+M9085/3,Mixed germ cell tumour,混合生殖细胞瘤
+M9090/0,"Struma ovarii, not otherwise specified",卵巢支柱，未另行规定
+M9090/3,"Struma ovarii, malignant",卵巢支柱瘤，恶性
+M9091/1,Strumal carcinoid,支柱类癌
+M910,Trophoblastic neoplasms,滋养层肿瘤
+M9100/0,"Hydatidiform mole, not otherwise specified",氢化物摩尔，未另行规定
+M9100/1,Invasive hydatidiform mole,侵袭性葡萄胎
+M9100/3,"Choriocarcinoma, not otherwise specified",脉络膜癌，未另行规定
+M9101/3,Choriocarcinoma combined with other germ cell elements,绒毛膜癌合并其他生殖细胞成分
+M9102/3,"Malignant teratoma, trophoblastic",恶性畸胎瘤，滋养层
+M9103/0,Partial hydatidiform mole,部分葡萄胎
+M9104/1,Placental site trophoblastic tumour,胎盘部位滋养层肿瘤
+M911,Mesonephromas,中肾瘤
+M9110/0,"Mesonephroma, benign",中肾瘤，良性
+M9110/1,Mesonephric tumour,中肾肿瘤
+M9110/3,"Mesonephroma, malignant",中肾瘤，恶性
+M912,Blood vessel tumours,血管肿瘤
+M9120/0,"Haemangioma, not otherwise specified",血管瘤，未另行说明
+M9120/3,Haemangiosarcoma,血管肉瘤
+M9121/0,Cavernous haemangioma,海绵状血管瘤
+M9122/0,Venous haemangioma,静脉血管瘤
+M9123/0,Racemose haemangioma,Racemose血管瘤
+M9124/3,Kupffer cell sarcoma,库普弗细胞肉瘤
+M9125/0,Epithelioid haemangioma,上皮样血管瘤
+M9126/0,Histiocytoid haemangioma,组织细胞样血管瘤
+M9130/0,"Haemangioendothelioma, benign",血管内皮细胞瘤，良性
+M9130/1,"Haemangioendothelioma, not otherwise specified",血管内皮细胞瘤，未另行规定
+M9130/3,"Haemangioendothelioma, malignant",血管内皮细胞瘤，恶性
+M9131/0,Capillary haemangioma,毛细血管血管瘤
+M9132/0,Intramuscular haemangioma,肌内血管瘤
+M9133/1,"Epithelioid haemangioendothelioma, not otherwise specified",上皮样血管内皮瘤，未另行规定
+M9133/3,"Epithelioid haemangioendothelioma, malignant",上皮样血管内皮瘤，恶性
+M9134/1,Intravascular bronchial alveolar tumour,血管内支气管肺泡肿瘤
+M9140/3,Kaposi's sarcoma,卡波西肉瘤
+M9141/0,Angiokeratoma,血管角化瘤
+M9142/0,Verrucous keratotic haemangioma,疣状角化血管瘤
+M9150/0,"Haemangiopericytoma, benign",血管外皮细胞瘤，良性
+M9150/1,"Haemangiopericytoma, not otherwise specified",血管外皮细胞瘤，未另行说明
+M9150/3,"Haemangiopericytoma, malignant",血管外皮细胞瘤，恶性
+M9160/0,"Angiofibroma, not otherwise specified",血管纤维瘤，未另行说明
+M9161/1,Haemangioblastoma,血管母细胞瘤
+M917,Lymphatic vessel tumours,淋巴管肿瘤
+M9170/0,"Lymphangioma, not otherwise specified",淋巴管瘤，未另行说明
+M9170/3,Lymphangiosarcoma,淋巴血管肉瘤
+M9171/0,Capillary lymphangioma,毛细血管淋巴管瘤
+M9172/0,Cavernous lymphangioma,海绵状淋巴管瘤
+M9173/0,Cystic lymphangioma,囊性淋巴管瘤
+M9174/0,Lymphangiomyoma,淋巴管肌瘤
+M9174/1,Lymphangiomyomatosis,淋巴管肌瘤病
+M9175/0,Haemolymphangioma,淋巴管瘤
+M918,Osseous and chondromatous neoplasms,骨质和软骨瘤肿瘤
+M9180/0,"Osteoma, not otherwise specified",骨肉瘤，未另行说明
+M9180/3,"Osteosarcoma, not otherwise specified",骨肉瘤，未另行规定
+M9181/3,Chondroblastic osteosarcoma,成软骨细胞骨肉瘤
+M9182/3,Fibroblastic osteosarcoma,成纤维细胞骨肉瘤
+M9183/3,Telangiectatic osteosarcoma,毛细血管扩张性骨肉瘤
+M9184/3,Osteosarcoma in Paget's disease of bone,骨佩吉特病中的骨肉瘤
+M9185/3,Small cell osteosarcoma,小细胞骨肉瘤
+M9190/3,Juxtacortical osteosarcoma,癌旁骨肉瘤
+M9191/0,"Osteoid osteoma, not otherwise specified",骨样骨瘤，未另行规定
+M9200/0,Osteoblastoma,成骨细胞瘤
+M9200/1,Aggressive osteoblastoma,侵袭性骨母细胞瘤
+M9210/0,Osteochondroma,骨软骨瘤
+M9210/1,"Osteochondromatosis, not otherwise specified",骨软骨瘤病，未另行规定
+M9220/0,"Chondroma, not otherwise specified",软骨瘤，未另行说明
+M9220/1,"Chondromatosis, not otherwise specified",软骨瘤病，未另行说明
+M9220/3,"Chondrosarcoma, not otherwise specified",软骨肉瘤，未另行说明
+M9221/0,Juxtacortical chondroma,咽旁软骨瘤
+M9221/3,Juxtacortical chondrosarcoma,咽旁软骨肉瘤
+M9230/0,"Chondroblastoma, not otherwise specified",软骨母细胞瘤，未另行规定
+M9230/3,"Chondroblastoma, malignant",软骨母细胞瘤，恶性
+M9231/3,Myxoid chondrosarcoma,粘液样软骨肉瘤
+M9240/3,Mesenchymal chondrosarcoma,间充质软骨肉瘤
+M9241/0,Chondromyxoid fibroma,软骨黏液样纤维瘤
+M925,Giant cell tumours,巨细胞瘤
+M9250/1,"Giant cell tumour of bone, not otherwise specified",骨巨细胞瘤，未另行规定
+M9250/3,"Giant cell tumour of bone, malignant",骨巨细胞瘤，恶性
+M9251/1,"Giant cell tumour of soft parts, not otherwise specified",软组织巨细胞瘤，未另行规定
+M9251/3,Malignant giant cell tumour of soft parts,软组织恶性巨细胞瘤
+M926,Miscellaneous bone tumours,杂性骨肿瘤
+M9260/3,Ewing's sarcoma,尤因肉瘤
+M9261/3,Adamantinoma of long bones,长骨Adamantinoma
+M9262/0,Ossifying fibroma,骨化性纤维瘤
+M927,Odontogenic tumours,牙源性肿瘤
+M9270/0,"Odontogenic tumour, benign",牙源性肿瘤，良性
+M9270/1,"Odontogenic tumour, not otherwise specified",牙源性肿瘤，未另行规定
+M9270/3,"Odontogenic tumour, malignant",牙源性肿瘤，恶性
+M9271/0,Dentinoma,牙本质细胞瘤
+M9272/0,"Cementoma, not otherwise specified",骨水泥瘤，未另行规定
+M9273/0,"Cementoblastoma, benign",成骨细胞瘤，良性
+M9274/0,Cementifying fibroma,骨水泥化纤维瘤
+M9275/0,Gigantiform cementoma,巨细胞牙骨质瘤
+M9280/0,"Odontoma, not otherwise specified",Odontoma，未另行说明
+M9281/0,Compound odontoma,复合性牙瘤
+M9282/0,Complex odontoma,复杂齿瘤
+M9290/0,Ameloblastic fibro-odontoma,成釉纤维牙瘤
+M9290/3,Ameloblastic odontosarcoma,成釉牙肉瘤
+M9300/0,Adenomatoid odontogenic tumour,腺瘤样牙源性肿瘤
+M9301/0,Calcifying odontogenic cyst,钙化性牙源性囊肿
+M9302/0,Odontogenic ghost cell tumour,牙源性幽灵细胞瘤
+M9310/0,"Ameloblastoma, not otherwise specified",成釉细胞瘤，未另行说明
+M9310/3,"Ameloblastoma, malignant",成釉细胞瘤，恶性
+M9311/0,Odontoameloblastoma,成釉细胞瘤
+M9312/0,Squamous odontogenic tumour,牙源性鳞状肿瘤
+M9320/0,Odontogenic myxoma,牙源性粘液瘤
+M9321/0,Central odontogenic fibroma,中央牙源性纤维瘤
+M9322/0,Peripheral odontogenic fibroma,外周牙源性纤维瘤
+M9330/0,Ameloblastic fibroma,成釉纤维瘤
+M9330/3,Ameloblastic fibrosarcoma,成釉细胞纤维肉瘤
+M9340/0,Calcifying epithelial odontogenic tumour,钙化性牙源性上皮肿瘤
+M935,Miscellaneous tumours,其他肿瘤
+M9350/1,Craniopharyngioma,颅咽管瘤
+M9360/1,Pinealoma,松果体
+M9361/1,Pineocytoma,松细胞瘤
+M9362/3,Pineoblastoma,松果体母细胞瘤
+M9363/0,Melanotic neuroectodermal tumour,黑色素瘤神经外胚层肿瘤
+M9364/3,Peripheral neuroectodermal tumour,外周神经外胚层肿瘤
+M9370/3,Chordoma,脊索瘤
+M938,Gliomas,胶质瘤
+M9380/3,"Glioma, malignant",胶质瘤，恶性
+M9381/3,Gliomatosis cerebri,脑胶质瘤病
+M9382/3,Mixed glioma,混合型胶质瘤
+M9383/1,Subependymal glioma,室管膜下神经胶质瘤
+M9384/1,Subependymal giant cell astrocytoma,室管膜下巨细胞星形细胞瘤
+M9390/0,"Choroid plexus papilloma, not otherwise specified",脉络丛乳头状瘤，未另行说明
+M9390/3,"Choroid plexus papilloma, malignant",脉络丛乳头状瘤，恶性
+M9391/3,"Ependymoma, not otherwise specified",Ependymoma，未另行规定
+M9392/3,"Ependymoma, anaplastic",上皮细胞瘤，间变性
+M9393/1,Papillary ependymoma,乳头状室管膜瘤
+M9394/1,Myxopapillary ependymoma,黏液乳头状室管膜瘤
+M9400/3,"Astrocytoma, not otherwise specified",星形细胞瘤，未另行说明
+M9401/3,"Astrocytoma, anaplastic",星形细胞瘤，间变性
+M9410/3,Protoplasmic astrocytoma,原质星形细胞瘤
+M9411/3,Gemistocytic astrocytoma,双毛细胞星形细胞瘤
+M9420/3,Fibrillary astrocytoma,纤维状星形细胞瘤
+M9421/3,Pilocytic astrocytoma,毛细胞星形细胞瘤
+M9422/3,"Spongioblastoma, not otherwise specified",海绵母细胞瘤，未另行规定
+M9423/3,Spongioblastoma polare,极性海绵母细胞瘤
+M9424/3,Pleomorphic xanthroastrocytoma,多形性黄嘌呤星形细胞瘤
+M9430/3,Astroblastoma,星形胶质细胞瘤
+M9440/3,"Glioblastoma, not otherwise specified",胶质母细胞瘤，未另行说明
+M9441/3,Giant cell glioblastoma,巨细胞胶质母细胞瘤
+M9442/3,Gliosarcoma,胶质肉瘤
+M9443/3,Primitive polar spongioblastoma,原始极性海绵母细胞瘤
+M9450/3,"Oligodendroglioma, not otherwise specified",少突胶质瘤，未另行规定
+M9451/3,"Oligodendroglioma, anaplastic",少突胶质瘤，间变性
+M9460/3,Oligodendroblastoma,少突胶质细胞瘤
+M9470/3,"Medulloblastoma, not otherwise specified",髓母细胞瘤，未另行说明
+M9471/3,Desmoplastic medulloblastoma,成Desmoplastic髓母细胞瘤
+M9472/3,Medullomyoblastoma,髓母细胞瘤
+M9473/3,Primitive neuroectodermal tumour,原始神经外胚层肿瘤
+M9480/3,"Cerebellar sarcoma, not otherwise specified",小脑肉瘤，未另行说明
+M9481/3,Monstrocellular sarcoma,毛细胞肉瘤
+M949,Neuroepitheliomatous neoplasms,神经上皮瘤样肿瘤
+M9490/0,Ganglioneuroma,神经节神经瘤
+M9490/3,Ganglioneuroblastoma,神经节细胞母细胞瘤
+M9491/0,Ganglioneuromatosis,神经节细胞瘤病
+M9500/3,"Neuroblastoma, not otherwise specified",神经母细胞瘤，未另行规定
+M9501/3,"Medulloepithelioma, not otherwise specified",髓母细胞瘤，未另行规定
+M9502/3,Teratoid medulloepithelioma,Teratoid髓上皮瘤
+M9503/3,"Neuroepithelioma, not otherwise specified",神经上皮瘤，未另行说明
+M9504/3,Spongioneuroblastoma,海绵神经母细胞瘤
+M9505/1,Ganglioglioma,神经节胶质瘤
+M9506/0,Neurocytoma,神经细胞瘤
+M9507/0,Pacinian tumour,帕西尼亚肿瘤
+M9510/3,"Retinoblastoma, not otherwise specified",视网膜母细胞瘤，未另行说明
+M9511/3,"Retinoblastoma, differentiated",视网膜母细胞瘤，分化型
+M9512/3,"Retinoblastoma, undifferentiated",视网膜母细胞瘤，未分化
+M9520/3,Olfactory neurogenic tumour,嗅觉神经源性肿瘤
+M9521/3,Esthesioneurocytoma,嗅尿细胞瘤
+M9522/3,Esthesioneuroblastoma,嗅神经母细胞瘤
+M9523/3,Esthesioneuroepithelioma,嗅上皮上皮瘤
+M953,Meningiomas,脑膜瘤
+M9530/0,"Meningioma, not otherwise specified",脑膜瘤，未另行说明
+M9530/1,"Meningiomatosis, not otherwise specified",脑膜瘤，未另行规定
+M9530/3,"Meningioma, malignant",脑膜瘤，恶性
+M9531/0,Meningotheliomatous meningioma,脑膜瘤
+M9532/0,Fibrous meningioma,纤维状脑膜瘤
+M9533/0,Psammomatous meningioma,肉瘤性脑膜瘤
+M9534/0,Angiomatous meningioma,血管瘤性脑膜瘤
+M9535/0,Haemangioblastic meningioma,血管母细胞性脑膜瘤
+M9536/0,Haemangiopericytic meningioma,血管外皮细胞性脑膜瘤
+M9537/0,Transitional meningioma,移行性脑膜瘤
+M9538/1,Papillary meningioma,乳头状脑膜瘤
+M9539/3,Meningeal sarcomatosis,脑膜肉瘤病
+M954,Nerve sheath tumour,神经鞘肿瘤
+M9540/0,"Neurofibroma, not otherwise specified",神经纤维瘤，未另行说明
+M9540/1,"Neurofibromatosis, not otherwise specified",神经纤维瘤病，未另行说明
+M9540/3,Neurofibrosarcoma,神经纤维肉瘤
+M9541/0,Melanotic neurofibroma,黑色素性神经纤维瘤
+M9550/0,Plexiform neurofibroma,丛状神经纤维瘤
+M9560/0,"Neurilemmoma, not otherwise specified",神经鞘瘤，未另行规定
+M9560/1,Neurinomatosis,神经鞘瘤病
+M9560/3,"Neurilemmoma, malignant",中性粒细胞瘤，恶性
+M9561/3,"Triton tumour, malignant",Triton肿瘤，恶性
+M9562/0,Neurothekeoma,神经鞘瘤
+M9570/0,"Neuroma, not otherwise specified",神经瘤，未另行说明
+M958,Granular cell tumours and alveolar soft part sarcoma,颗粒细胞瘤和肺泡软组织肉瘤
+M9580/0,"Granular cell tumour, not otherwise specified",颗粒细胞瘤，未另行规定
+M9580/3,"Granular cell tumour, malignant",颗粒细胞瘤，恶性
+M9581/3,Alveolar soft part sarcoma,肺泡软组织肉瘤
+M959,"Malignant lymphomas, not otherwise specified or diffuse",恶性淋巴瘤，未另行规定或弥漫性
+M9590/3,"Malignant lymphoma, not otherwise specified",恶性淋巴瘤，未另行说明
+M9591/3,"Malignant lymphoma, non-Hodgkin's, not otherwise specified",恶性淋巴瘤，非霍奇金淋巴瘤，未另行说明
+M9592/3,"Lymphosarcoma, not otherwise specified",淋巴肉瘤，未另行说明
+M9593/3,"Reticulosarcoma, not otherwise specified",网状肉瘤，未另行说明
+M9594/3,Microglioma,微胶质瘤
+M9595/3,"Malignant lymphoma, diffuse",恶性淋巴瘤，弥漫性
+M965,Hodgkin's disease,霍奇金病
+M9650/3,"Hodgkin's disease, not otherwise specified",霍奇金病，未另行说明
+M9652/3,"Hodgkin's disease, mixed cellularity, not otherwise specified",霍奇金病，混合细胞性，未另行说明
+M9653/3,"Hodgkin's disease, lymphocytic depletion, not otherwise specified",霍奇金病，淋巴细胞耗竭，未另行说明
+M9654/3,"Hodgkin's disease, lymphocytic depletion, diffuse fibrosis",霍奇金病、淋巴细胞耗竭、弥漫性纤维化
+M9655/3,"Hodgkin's disease, lymphocytic depletion, reticular",霍奇金病，淋巴细胞耗竭，网状
+M9657/3,"Hodgkin's disease, lymphocytic predominance, not otherwise specified",霍奇金病，淋巴细胞占优势，未另行说明
+M9658/3,"Hodgkin's disease, lymphocytic predominance, diffuse",霍奇金病，淋巴细胞占优势，弥漫性
+M9659/3,"Hodgkin's disease, lymphocytic predominance, nodular",霍奇金病，淋巴细胞占优势，结节性
+M9660/3,"Hodgkin's paragranuloma, not otherwise specified",霍奇金副神经节瘤，未另行说明
+M9661/3,Hodgkin's granuloma,霍奇金肉芽肿
+M9662/3,Hodgkin's sarcoma,霍奇金肉瘤
+M9663/3,"Hodgkin's disease, nodular sclerosis, not otherwise specified",霍奇金病，结节性硬化症，未另行说明
+M9664/3,"Hodgkin's disease, nodular sclerosis, cellular phase",霍奇金病、结节性硬化、细胞期
+M9665/3,"Hodgkin's disease, nodular sclerosis, lymphocytic predominance",霍奇金病、结节性硬化、淋巴细胞优势
+M9666/3,"Hodgkin's disease, nodular sclerosis, mixed cellularity",霍奇金病、结节性硬化、混合性细胞
+M9667/3,"Hodgkin's disease, nodular sclerosis, lymphocytic depletion",霍奇金病、结节性硬化、淋巴细胞耗竭
+M967,"Malignant lymphoma, diffuse or, not otherwise specified, specified type",恶性淋巴瘤，弥漫性或未另行规定的特定类型
+M9670/3,"Malignant lymphoma, small lymphocytic, not otherwise specified",恶性淋巴瘤，小淋巴细胞性，未另行说明
+M9671/3,"Malignant lymphoma, lymphoplasmacytic",恶性淋巴瘤，淋巴浆细胞性
+M9672/3,"Malignant lymphoma, small cleaved cell, diffuse",恶性淋巴瘤，小分裂细胞，弥漫性
+M9673/3,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",恶性淋巴瘤，淋巴细胞性，中分化，弥漫性
+M9674/3,"Malignant lymphoma, centrocytic",恶性淋巴瘤，中心细胞性
+M9675/3,"Malignant lymphoma, mixed small and large cell, diffuse",恶性淋巴瘤，大小细胞混合，弥漫性
+M9676/3,"Malignant lymphoma, centroblastic-centrocytic, diffuse",恶性淋巴瘤，中心母细胞，弥漫性
+M9677/3,Malignant lymphomamatous polyposis,恶性淋巴腺瘤性息肉病
+M9680/3,"Malignant lymphoma, large cell, diffuse, not otherwise specified",恶性淋巴瘤，大细胞，弥漫性，未另行说明
+M9681/3,"Malignant lymphoma, large cell, cleaved, diffuse",恶性淋巴瘤，大细胞，裂解，弥漫
+M9682/3,"Malignant lymphoma, large cell, noncleaved, diffuse",恶性淋巴瘤，大细胞，非鳞状，弥漫性
+M9683/3,"Malignant lymphoma, centroblastic, diffuse",恶性淋巴瘤，成中心细胞性，弥漫性
+M9684/3,"Malignant lymphoma, immunoblastic, not otherwise specified",恶性淋巴瘤，免疫母细胞性，未另行规定
+M9685/3,"Malignant lymphoma, lymphoblastic",恶性淋巴瘤，淋巴母细胞性
+M9686/3,"Malignant lymphoma, small cell, noncleaved, diffuse",恶性淋巴瘤，小细胞，非鳞状，弥漫性
+M9687/3,"Burkitt's lymphoma, not otherwise specified",伯基特淋巴瘤，未另行说明
+M969,"Malignant lymphoma, follicular or nodular, with or",恶性淋巴瘤，滤泡性或结节性，伴有或
+without,diffuse areas,扩散区域
+M9690/3,"Malignant lymphoma, follicular, not otherwise specified",滤泡性恶性淋巴瘤，未另行说明
+M9691/3,"Malignant lymphoma, mixed small cleaved and large cell, follicular",恶性淋巴瘤，小细胞和大细胞混合，滤泡性
+M9692/3,"Malignant lymphoma, centroblastic-centrocytic, follicular",恶性淋巴瘤，中心母细胞，滤泡性
+M9693/3,"Malignant lymphoma, lymphocytic, well differentiated, nodular",恶性淋巴瘤，淋巴细胞性，高分化，结节性
+M9694/3,"Malignant lymphoma, lymphocytic, intermediate differentiation, nodular",恶性淋巴瘤，淋巴细胞性，中分化，结节性
+M9695/3,"Malignant lymphoma, small cleaved cell, follicular",恶性淋巴瘤，小分裂细胞，滤泡
+M9696/3,"Malignant lymphoma, lymphocytic, poorly differentiated, nodular",恶性淋巴瘤，淋巴细胞性，低分化，结节性
+M9697/3,"Malignant lymphoma, centroblastic, follicular",恶性淋巴瘤，成中心细胞性，滤泡性
+M9698/3,"Malignant lymphoma, large cell, follicular, not otherwise specified",恶性淋巴瘤，大细胞，滤泡性，未另行说明
+M970,Specified cutaneous and peripheral T-cell lymphomas,特定的皮肤和外周T细胞淋巴瘤
+M9700/3,Mycosis fungoides,蕈样真菌病
+M9701/3,S�zary's disease,S�扎里病
+M9702/3,"Peripheral T-cell lymphoma, not otherwise specified",外周T细胞淋巴瘤，未另行规定
+M9703/3,T-zone lymphoma,T区淋巴瘤
+M9704/3,Lymphoepithelioid lymphoma,淋巴髓样淋巴瘤
+M9705/3,"Peripheral T-cell lymphoma, AILD (angioimmunoblastic lymphadenopathy with dysproteinaemia)",外周T细胞淋巴瘤，AILD（伴有异常蛋白血症的血管免疫母细胞性淋巴结病）
+M9706/3,"Peripheral T-cell lymphoma, pleomorphic small cell",外周T细胞淋巴瘤，多形性小细胞
+M9707/3,"Peripheral T-cell lymphoma, pleomorphic medium and large cell",外周T细胞淋巴瘤，多形性中细胞和大细胞
+M9709/3,Cutaneous lymphoma,皮肤淋巴瘤
+M971,Other specified non-Hodgkin's lymphomas,其他特定的非霍奇金淋巴瘤
+M9711/3,Monocytoid B-cell lymphoma,单核细胞样B细胞淋巴瘤
+M9712/3,Angioendotheliomatosis,血管内皮细胞瘤病
+M9713/3,Angiocentric T-cell lymphoma,血管中心性T细胞淋巴瘤
+M9714/3,Large cell (Ki-1+) lymphoma,大细胞（Ki-1+）淋巴瘤
+M972,Other lymphoreticular neoplasms,其他淋巴网状肿瘤
+M9720/3,Malignant histiocytosis,恶性组织细胞增多症
+M9722/3,Letterer-Siwe disease,莱特-西韦病
+M9723/3,True histiocytic lymphoma,真组织细胞淋巴瘤
+M973,Plasma cell tumours,浆细胞肿瘤
+M9731/3,"Plasmacytoma, not otherwise specified",浆细胞瘤，未另行规定
+M9732/3,Multiple myeloma,多发性骨髓瘤
+M974,Mast cell tumours,肥大细胞肿瘤
+M9740/1,"Mastocytoma, not otherwise specified",肥大细胞瘤，未另行说明
+M9740/3,Mast cell sarcoma,肥大细胞肉瘤
+M9741/3,Malignant mastocytosis,恶性肥大细胞增多症
+M976,Immunoproliferative diseases,免疫增殖性疾病
+M9760/3,"Immunoproliferative disease, not otherwise specified",免疫增殖性疾病，未另行规定
+M9761/3,Waldenstr�m's macroglobulinaemia,沃尔登斯特�m氏巨球蛋白血症
+M9762/3,Alpha heavy chain disease,阿尔法重链病
+M9763/3,Gamma heavy chain disease,伽玛重链病
+M9764/3,Immunoproliferative small intestinal disease,免疫增殖性小肠疾病
+M9765/1,Monoclonal gammopathy,单克隆免疫球蛋白病
+M9766/1,Angiocentric immunoproliferative lesion,血管中心免疫增殖性病变
+M9767/1,Angioimmunoblastic lymphadenopathy,血管免疫母细胞性淋巴结病
+M9768/1,T-gamma lymphoproliferative disease,Tγ淋巴增生性疾病
+M980,"Leukaemias, not otherwise specified",白血病，未另行规定
+M9800/3,"Leukaemia, not otherwise specified",白血病，未另行规定
+M9801/3,"Acute leukaemia, not otherwise specified",急性白血病，未另行规定
+M9802/3,"Subacute leukaemia, not otherwise specified",亚急性白血病，未另行规定
+M9803/3,"Chronic leukaemia, not otherwise specified",慢性白血病，未另行规定
+M9804/3,"Aleukaemic leukaemia, not otherwise specified",白血病，未另行规定
+M982,Lymphoid leukaemias,淋巴白血病
+M9820/3,"Lymphoid leukaemia, not otherwise specified",淋巴白血病，未另行规定
+M9821/3,"Acute lymphoblastic leukaemia, not otherwise specified",急性淋巴细胞白血病，未另行规定
+M9822/3,Subacute lymphoid leukaemia,亚急性淋巴白血病
+M9823/3,Chronic lymphocytic leukaemia,慢性淋巴细胞白血病
+M9824/3,Aleukaemic lymphoid leukaemia,白血病性淋巴白血病
+M9825/3,Prolymphocytic leukaemia,前淋巴细胞白血病
+M9826/3,Burkitt's cell leukaemia,伯基特细胞白血病
+M9827/3,Adult T-cell leukaemia/lymphoma,成人T细胞白血病/淋巴瘤
+M983,Plasma cell leukaemia,浆细胞白血病
+M9830/3,Plasma cell leukaemia,浆细胞白血病
+M984,Erythroleukaemias,红白血病
+M9840/3,Erythroleukaemia,红细胞白血病
+M9841/3,Acute erythraemia,急性红细胞增多症
+M9842/3,Chronic erythraemia,慢性红细胞增多症
+M985,Lymphosarcoma cell leukaemia,淋巴肉瘤细胞白血病
+M9850/3,Lymphosarcoma cell leukaemia,淋巴肉瘤细胞白血病
+M986,Myeloid (granulocyti,髓细胞（粒细胞）
+M9860/3,"Myeloid leukaemia, not otherwise specified",髓细胞白血病，未另行规定
+M9861/3,Acute myeloid leukaemia,急性髓细胞白血病
+M9862/3,Subacute myeloid leukaemia,亚急性髓细胞白血病
+M9863/3,Chronic myeloid leukaemia,慢性髓细胞白血病
+M9864/3,Aleukaemic myeloid leukaemia,白血病性骨髓白血病
+M9866/3,Acute promyelocytic leukaemia,急性早幼粒细胞白血病
+M9867/3,Acute myelomonocytic leukaemia,急性骨髓单核细胞白血病
+M9868/3,Chronic myelomonocytic leukaemia,慢性粒单核细胞白血病
+M987,Basophilic leukaemia,嗜碱性白血病
+M9870/3,Basophilic leukaemia,嗜碱性白血病
+M988,Eosinophilic leukaemia,嗜酸性粒细胞白血病
+M9880/3,Eosinophilic leukaemia,嗜酸性粒细胞白血病
+M989,Monocytic leukaemias,单核细胞白血病
+M9890/3,"Monocytic leukaemia, not otherwise specified",单核细胞白血病，未另行规定
+M9891/3,Acute monocytic leukaemia,急性单核细胞白血病
+M9892/3,Subacute monocytic leukaemia,亚急性单核细胞白血病
+M9893/3,Chronic monocytic leukaemia,慢性单核细胞白血病
+M9894/3,Aleukaemic monocytic leukaemia,白血病性单核细胞白血病
+M990,Other leukaemias,其他白血病
+M9900/3,Mast cell leukaemia,肥大细胞白血病
+M9910/3,Acute megakaryoblastic leukaemia,急性巨核细胞白血病
+M9930/3,Myeloid sarcoma,髓细胞肉瘤
+M9931/3,Acute panmyelosis,急性全骨髓增生症
+M9932/3,Acute myelofibrosis,急性骨髓纤维化
+M9940/3,Hairy cell leukaemia,毛细胞性白血病
+M9941/3,Leukaemic reticuloendotheliosis,白血病性网状内皮细胞增多症
+M995,Miscellaneous myeloproliferative and lymphoproliferative disorders,其他骨髓增生性和淋巴增生性疾病
+M9950/1,Polycythaemia vera,真性红细胞增多症
+M9960/1,Chronic myeloproliferative disease,慢性骨髓增生性疾病
+M9961/1,Myelosclerosis with myeloid metaplasia,骨髓硬化伴髓化生
+M9962/1,Idiopathic thrombocythaemia,特发性血小板增多症
+M9970/1,Lymphoproliferative disease,淋巴增生性疾病
+M998,Myelodysplastic syndrome,骨髓增生异常综合征
+M9980/1,"Refractory anaemia, not otherwise specified",难治性贫血，未另行规定
+M9981/1,Refractory anaemia without sideroblasts,无成铁细胞的难治性贫血
+M9982/1,Refractory anaemia with sideroblasts,难治性贫血伴成铁细胞
+M9983/1,Refractory anaemia with excess of blasts,难治性贫血伴母细胞过多
+M9984/1,Refractory anaemia with excess of blasts with transformation,难治性贫血伴转化母细胞过多
+M9989/1,"Myelodysplastic syndrome, not otherwise specified",骨髓增生异常综合征，未另行规定
