@@ -2,8 +2,8 @@
 set count=%1
 set api_token=%2
 set level=%3
-
-for /l %%i in (0,1,%count%) do (
+set /a loop=%count%-1
+for /l %%i in (0,1,%loop%) do (
     start python scripts/classify_gpt.py --chunk_id %%i --chunk_size %count% --API_TOKEN %api_token% --pred_cause_level %level%
 )
 
