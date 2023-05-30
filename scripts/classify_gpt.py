@@ -58,7 +58,7 @@ class Classify_Dataset:
         self.cause_level2 = '["Declared dead by the court", ' \
                             '"Intentional suicide", "Homicide", ' \
                             '"Accidents caused by non-vehicles", "Accidents caused by vehicles", "Unexplained accident", ' \
-                            '"Tumor", "Diseases of circulatory and blood system", "Diseases of Respiratory system", ' \
+                            '"Tumor", "Diseases of the circulatory and blood system", "Diseases of the respiratory system", ' \
                             '"Diseases of the digestive system", "Diseases of the urinary and reproductive system", ' \
                             '"Diseases of the nervous and motor systems", "Endocrine/immune/metabolic diseases", ' \
                             '"Diseases that cannot be classified as tumors or a specific system", ' \
